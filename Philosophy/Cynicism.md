@@ -1,0 +1,1 @@
+The Philosphy of Cynicism

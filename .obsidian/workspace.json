@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information Technology/Darknet/How to Create a Darknet Site With Custom Domain.md",
+                "file": "Philosophy/Cynicism.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Information Technology/Darknet/How to Create a Darknet Site With Custom Domain.md",
+                "file": "Philosophy/Cynicism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Information Technology/Darknet/How to Create a Darknet Site With Custom Domain.md",
+                "file": "Philosophy/Cynicism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Information Technology/Darknet/How to Create a Darknet Site With Custom Domain.md"
+                "file": "Philosophy/Cynicism.md"
               }
             }
           }
@@ -151,6 +151,7 @@
   "active": "7ebbf49fdbb2dc88",
   "lastOpenFiles": [
     "Philosophy/Stoicism.md",
+    "Philosophy/Cynicism.md",
     "Information Technology/Darknet/How to Create a Darknet Site With Custom Domain.md",
     "Human Brain and Body/Books/The Brain by David Eagleman/Untitled.canvas",
     "Information Technology/Darknet",
