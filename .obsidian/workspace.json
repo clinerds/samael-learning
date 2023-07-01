@@ -11,11 +11,14 @@
             "id": "7ebbf49fdbb2dc88",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Philosophy/Cynicism.md",
-                "mode": "source",
-                "source": false
+                "file": "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Your Brain on Porn.canvas",
+                "viewState": {
+                  "x": 280,
+                  "y": 101,
+                  "zoom": -1.371968777386958
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/Cynicism.md",
+                "file": "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Your Brain on Porn.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/Cynicism.md",
+                "file": "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Your Brain on Porn.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophy/Cynicism.md"
+                "file": "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Your Brain on Porn.canvas"
               }
             }
           }
@@ -150,8 +153,8 @@
   },
   "active": "7ebbf49fdbb2dc88",
   "lastOpenFiles": [
-    "Philosophy/Stoicism.md",
     "Philosophy/Cynicism.md",
+    "Philosophy/Stoicism.md",
     "Information Technology/Darknet/How to Create a Darknet Site With Custom Domain.md",
     "Human Brain and Body/Books/The Brain by David Eagleman/Untitled.canvas",
     "Information Technology/Darknet",
