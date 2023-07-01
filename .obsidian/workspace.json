@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "2e0b68bb13c82602",
+    "type": "split",
+    "children": [
+      {
+        "id": "605f3ff7a7cd2b5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ebbf49fdbb2dc88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Information Technology/Darknet/How to Create a Darknet Site With Custom Domain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c160ec665c404d6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5a9ebd83ca95305",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fd0290b710dcda0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "db16e48077c9a25c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c725ed0c5b2adcfd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6878ded8de9c6f97",
+    "type": "split",
+    "children": [
+      {
+        "id": "52c2c68e935b45b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "638e56b2ba579607",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Information Technology/Darknet/How to Create a Darknet Site With Custom Domain.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f11231a26ec7f73d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Information Technology/Darknet/How to Create a Darknet Site With Custom Domain.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f892fd52d0353af",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8b5b2db8211c494e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Information Technology/Darknet/How to Create a Darknet Site With Custom Domain.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "7ebbf49fdbb2dc88",
+  "lastOpenFiles": [
+    "Philosophy/Stoicism.md",
+    "Information Technology/Darknet/How to Create a Darknet Site With Custom Domain.md",
+    "Human Brain and Body/Books/The Brain by David Eagleman/Untitled.canvas",
+    "Information Technology/Darknet",
+    "Information Technology",
+    "Human Brain and Body/Books/The Brain by David Eagleman/Chapter 2 - What is Reality.md",
+    "Human Brain and Body/Books/The Brain by David Eagleman/Chapter 1 - Who Am I.md",
+    "Human Brain and Body/Books/Books.md",
+    "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Your Brain on Porn.canvas",
+    "Philosophy",
+    "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Part 3 - Dopamine the molecule of Addiction.md",
+    "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Part 2 - The Reward Circuit.md",
+    "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Part 1 - The Coolidge Effect.md",
+    "brain-sides-concept-illustration_114360-13064.jpg",
+    "Untitled.canvas",
+    "Untitled.md",
+    "Human Brain and Body/Documentaries and Videos/Your Brain on Porn",
+    "Human Brain and Body/Books/The Brain by David Eagleman/Untitled",
+    "Human Brain and Body/Books/The Brain by David Eagleman",
+    "Human Brain and Body/Documentaries and Videos",
+    "Human Brain and Body/Books",
+    "Books",
+    "Human Brain and Body",
+    "Human Brain and Body.md",
+    "Untitled 1.canvas",
+    "2023-06-30.md"
+  ]
+}
