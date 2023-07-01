@@ -11,14 +11,11 @@
             "id": "7ebbf49fdbb2dc88",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Your Brain on Porn.canvas",
-                "viewState": {
-                  "x": 280,
-                  "y": 101,
-                  "zoom": -1.371968777386958
-                }
+                "file": "Philosophy/Stoicism.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Your Brain on Porn.canvas",
+                "file": "Philosophy/Stoicism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Your Brain on Porn.canvas",
+                "file": "Philosophy/Stoicism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Your Brain on Porn.canvas"
+                "file": "Philosophy/Stoicism.md"
               }
             }
           }
@@ -153,6 +150,7 @@
   },
   "active": "7ebbf49fdbb2dc88",
   "lastOpenFiles": [
+    "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Your Brain on Porn.canvas",
     "Philosophy/Cynicism.md",
     "Philosophy/Stoicism.md",
     "Information Technology/Darknet/How to Create a Darknet Site With Custom Domain.md",
@@ -162,7 +160,6 @@
     "Human Brain and Body/Books/The Brain by David Eagleman/Chapter 2 - What is Reality.md",
     "Human Brain and Body/Books/The Brain by David Eagleman/Chapter 1 - Who Am I.md",
     "Human Brain and Body/Books/Books.md",
-    "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Your Brain on Porn.canvas",
     "Philosophy",
     "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Part 3 - Dopamine the molecule of Addiction.md",
     "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Part 2 - The Reward Circuit.md",
