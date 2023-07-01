@@ -1,5 +1,3 @@
- ![[Pasted image 20230701104530.png]]
- 
 #### Summary
  
  The principles of Stoicism, a philosophical school of thought founded by Zeno in 300 BC. Stoicism teaches acceptance, indifference, and the ability to control our reactions to external events. The video highlights the lasting impact of Stoic philosophy, its application in modern life, and its emphasis on perspective, unity, and equality. It explores the importance of separating what we can control from what we cannot, placing value on intrinsic qualities rather than external possessions, and finding happiness through self-worth and purpose. The video also mentions the influence of Stoicism on prominent figures like Marcus Aurelius and Nelson Mandela, as well as its connection to therapeutic approaches such as Rational Emotive Behavioral Therapy and Logotherapy.
@@ -29,3 +27,5 @@ Rational Emotive Behavioral Therapy (REBT) and Logotherapy are two psychological
 - 💡 Rational Emotive Behavioral Therapy and Logotherapy incorporate Stoic principles in addressing negative thought patterns and finding purpose.
 - 💡 Stoicism helps us lead happier and more fulfilling lives by shifting our definition of value and controlling our reactions to external events.
 - 💡 Stoicism provides guidance for navigating life's storms, finding peace even in the face of inevitable endings.
+
+- [[Cynicism]]

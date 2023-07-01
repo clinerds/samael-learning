@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mysteries and Parapsychology/Science Behind Ghosts/Main Synopsis.md",
+                "file": "Mysteries and Parapsychology/Science Behind Ghosts/Ideomotor Effect.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mysteries and Parapsychology/Science Behind Ghosts/Main Synopsis.md",
+                "file": "Mysteries and Parapsychology/Science Behind Ghosts/Ideomotor Effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mysteries and Parapsychology/Science Behind Ghosts/Main Synopsis.md",
+                "file": "Mysteries and Parapsychology/Science Behind Ghosts/Ideomotor Effect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mysteries and Parapsychology/Science Behind Ghosts/Main Synopsis.md"
+                "file": "Mysteries and Parapsychology/Science Behind Ghosts/Ideomotor Effect.md"
               }
             }
           }
@@ -145,17 +145,23 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "obsidian-book-search-plugin:Create new book note": false
     }
   },
   "active": "7ebbf49fdbb2dc88",
   "lastOpenFiles": [
-    "Philosophy/Cynicism.md",
-    "Philosophy/Stoicism.md",
+    "Philosophy/Philosphy.canvas",
+    "Mysteries and Parapsychology/Science Behind Ghosts/Science Behind Ghosts.canvas",
+    "Human Brain and Body/Books/The Brain by David Eagleman/Untitled.canvas",
     "Human Brain and Body/Books/The Brain by David Eagleman/Pasted image 20230701104530.png",
     "Human Brain and Body/Books/The Brain by David Eagleman/Pasted image 20230701104445.png",
+    "Human Brain and Body/Books/The Brain by David Eagleman/Chapter 1 - Who Am I.md",
+    "The Brain - David Eagleman.md",
+    "Philosophy/Stoicism.md",
+    "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Part 1 - The Coolidge Effect.md",
     "Mysteries and Parapsychology/Science Behind Ghosts/Main Synopsis.md",
-    "Mysteries and Parapsychology/Science Behind Ghosts/Science Behind Ghosts.canvas",
+    "Philosophy/Cynicism.md",
     "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Your Brain on Porn.canvas",
     "Mysteries and Parapsychology/Science Behind Ghosts/Ideomotor Effect.md",
     "Mysteries and Parapsychology/Science Behind Ghosts/Blindfold Tests.md",
@@ -168,16 +174,13 @@
     "Mysteries and Parapsychology/Untitled.md",
     "Mysteries and Parapsychology",
     "Information Technology/Darknet/How to Create a Darknet Site With Custom Domain.md",
-    "Human Brain and Body/Books/The Brain by David Eagleman/Untitled.canvas",
     "Information Technology/Darknet",
     "Information Technology",
     "Human Brain and Body/Books/The Brain by David Eagleman/Chapter 2 - What is Reality.md",
-    "Human Brain and Body/Books/The Brain by David Eagleman/Chapter 1 - Who Am I.md",
     "Human Brain and Body/Books/Books.md",
     "Philosophy",
     "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Part 3 - Dopamine the molecule of Addiction.md",
     "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Part 2 - The Reward Circuit.md",
-    "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Part 1 - The Coolidge Effect.md",
     "brain-sides-concept-illustration_114360-13064.jpg",
     "Untitled.canvas",
     "Human Brain and Body/Documentaries and Videos/Your Brain on Porn",
