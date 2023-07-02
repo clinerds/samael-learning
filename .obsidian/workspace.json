@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Understanding/The CIA Gateway Process.md",
+                "file": "Information Technology/Jarvis/Publically Available Stuff.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Understanding/The CIA Gateway Process.md",
+                "file": "Information Technology/Jarvis/Publically Available Stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Understanding/The CIA Gateway Process.md",
+                "file": "Information Technology/Jarvis/Publically Available Stuff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Understanding/The CIA Gateway Process.md"
+                "file": "Information Technology/Jarvis/Publically Available Stuff.md"
               }
             }
           }
@@ -151,8 +151,11 @@
   },
   "active": "cfdfbd6d4f1c9c93",
   "lastOpenFiles": [
-    "General Understanding/Hemisync.md",
     "General Understanding/The CIA Gateway Process.md",
+    "Information Technology/Jarvis/Publically Available Stuff.md",
+    "Information Technology/Jarvis",
+    "Untitled",
+    "General Understanding/Hemisync.md",
     "General Understanding/Main Synopsis.md",
     "General Understanding/Altered states of consciousnes.md",
     "[.md",
@@ -190,8 +193,6 @@
     "Untitled.canvas",
     "Human Brain and Body/Documentaries and Videos/Your Brain on Porn",
     "Human Brain and Body/Books/The Brain by David Eagleman/Untitled",
-    "Human Brain and Body/Books/The Brain by David Eagleman",
-    "Human Brain and Body/Documentaries and Videos",
     "Human Brain and Body.md",
     "Untitled 1.canvas",
     "2023-06-30.md"
