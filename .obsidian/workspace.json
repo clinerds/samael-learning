@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information Technology/Jarvis/Publically Available Stuff.md",
+                "file": "General Understanding/Main Synopsis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "785c39c07dc2a255",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Human Brain and Body/Books/The Brain by David Eagleman/Chapter 1 - Who Am I.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Information Technology/Jarvis/Publically Available Stuff.md",
+                "file": "General Understanding/Main Synopsis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Information Technology/Jarvis/Publically Available Stuff.md",
+                "file": "General Understanding/Main Synopsis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Information Technology/Jarvis/Publically Available Stuff.md"
+                "file": "General Understanding/Main Synopsis.md"
               }
             }
           }
@@ -151,37 +163,39 @@
   },
   "active": "cfdfbd6d4f1c9c93",
   "lastOpenFiles": [
-    "General Understanding/The CIA Gateway Process.md",
+    "Human Brain and Body/Books/Livewired by David Eagleman/Chapter 1 - The Electric Living Fabric.md",
+    "Human Brain and Body/Books/The Brain by David Eagleman/Chapter 1 - Who Am I.md",
+    "Philosophy/Cynicism.md",
+    "Human Brain and Body/Books/Livewired by David Eagleman",
+    "Mysteries and Parapsychology/Science Behind Ghosts/Science Behind Ghosts.canvas",
+    "Mysteries and Parapsychology/Science Behind Ghosts/Blindfold Tests.md",
+    "Mysteries and Parapsychology/Science Behind Ghosts/Ideomotor Effect.md",
+    "Mysteries and Parapsychology/Science Behind Ghosts/Mass Psychogenic Illness.md",
+    "Mysteries and Parapsychology/Science Behind Ghosts/Main Synopsis.md",
     "Information Technology/Jarvis/Publically Available Stuff.md",
-    "Information Technology/Jarvis",
-    "Untitled",
+    "Information Technology/Darknet/How to Create a Darknet Site With Custom Domain.md",
+    "General Understanding/Altered states of consciousnes.md",
     "General Understanding/Hemisync.md",
     "General Understanding/Main Synopsis.md",
-    "General Understanding/Altered states of consciousnes.md",
+    "General Understanding/The CIA Gateway Process.md",
+    "Information Technology/Jarvis",
+    "Untitled",
     "[.md",
     "Philosophy/Philosphy.canvas",
-    "Mysteries and Parapsychology/Science Behind Ghosts/Main Synopsis.md",
-    "Mysteries and Parapsychology/Science Behind Ghosts/Ideomotor Effect.md",
     "General Understanding",
-    "Mysteries and Parapsychology/Science Behind Ghosts/Science Behind Ghosts.canvas",
     "Human Brain and Body/Books/The Brain by David Eagleman/Untitled.canvas",
     "Human Brain and Body/Books/The Brain by David Eagleman/Pasted image 20230701104530.png",
     "Human Brain and Body/Books/The Brain by David Eagleman/Pasted image 20230701104445.png",
-    "Human Brain and Body/Books/The Brain by David Eagleman/Chapter 1 - Who Am I.md",
     "The Brain - David Eagleman.md",
     "Philosophy/Stoicism.md",
     "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Part 1 - The Coolidge Effect.md",
-    "Philosophy/Cynicism.md",
     "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Your Brain on Porn.canvas",
-    "Mysteries and Parapsychology/Science Behind Ghosts/Blindfold Tests.md",
-    "Mysteries and Parapsychology/Science Behind Ghosts/Mass Psychogenic Illness.md",
     "Mass Psychogenic Illness.md",
     "Untitled.md",
     "().md",
     "Mysteries and Parapsychology/Science Behind Ghosts",
     "Mysteries and Parapsychology/Untitled.md",
     "Mysteries and Parapsychology",
-    "Information Technology/Darknet/How to Create a Darknet Site With Custom Domain.md",
     "Information Technology/Darknet",
     "Information Technology",
     "Human Brain and Body/Books/The Brain by David Eagleman/Chapter 2 - What is Reality.md",
@@ -192,9 +206,7 @@
     "brain-sides-concept-illustration_114360-13064.jpg",
     "Untitled.canvas",
     "Human Brain and Body/Documentaries and Videos/Your Brain on Porn",
-    "Human Brain and Body/Books/The Brain by David Eagleman/Untitled",
     "Human Brain and Body.md",
-    "Untitled 1.canvas",
-    "2023-06-30.md"
+    "Untitled 1.canvas"
   ]
 }
