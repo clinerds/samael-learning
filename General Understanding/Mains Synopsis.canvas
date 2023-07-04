@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"type":"file","file":"General Understanding/Altered states of consciousnes.md","id":"933594924220b95c","x":360,"y":-600,"width":400,"height":400},
+		{"type":"file","file":"General Understanding/Hemisync.md","id":"57ecb10888eeff5b","x":1520,"y":-600,"width":400,"height":400},
+		{"type":"file","file":"General Understanding/The CIA Gateway Process.md","id":"20ee4dae12ffbd5b","x":1000,"y":200,"width":400,"height":400},
+		{"type":"text","text":"Main Synopsis Interconnected.","id":"1cad4f4ba641c125","x":1014,"y":-211,"width":250,"height":60},
+		{"type":"file","file":"General Understanding/Main Synopsis.md","id":"bb881669aa431fb2","x":40,"y":0,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"70d016a9799db7f5","fromNode":"933594924220b95c","fromSide":"right","toNode":"57ecb10888eeff5b","toSide":"left"},
+		{"id":"bc7ef0712791b611","fromNode":"57ecb10888eeff5b","fromSide":"left","toNode":"20ee4dae12ffbd5b","toSide":"top"},
+		{"id":"52554c44847cf3d0","fromNode":"20ee4dae12ffbd5b","fromSide":"top","toNode":"933594924220b95c","toSide":"right"},
+		{"id":"9f0e77e73a4820fb","fromNode":"bb881669aa431fb2","fromSide":"right","toNode":"1cad4f4ba641c125","toSide":"left"}
+	]
+}

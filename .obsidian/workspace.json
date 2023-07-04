@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a169ee630fec8e64",
+        "id": "c6671bd804a449a1",
         "type": "tabs",
         "children": [
           {
-            "id": "cfdfbd6d4f1c9c93",
+            "id": "9e3dc21c3c73339f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Understanding/Main Synopsis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "785c39c07dc2a255",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Human Brain and Body/Books/The Brain by David Eagleman/Chapter 1 - Who Am I.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Understanding/Main Synopsis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Understanding/Main Synopsis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "General Understanding/Main Synopsis.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -151,44 +131,48 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "3d-graph:3D Graph": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false,
-      "obsidian-book-search-plugin:Create new book note": false
+      "publish:Publish changes...": false
     }
   },
-  "active": "cfdfbd6d4f1c9c93",
+  "active": "9e3dc21c3c73339f",
   "lastOpenFiles": [
+    "To-Learn/To-Learn.md",
+    "To-Learn",
+    "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Part 1 - The Coolidge Effect.md",
+    "General Understanding/Altered states of consciousnes.md",
+    "Untitled.canvas",
+    "General Understanding/Hemisync.md",
+    "General Understanding/The CIA Gateway Process.md",
+    "General Understanding/Mains Synopsis.canvas",
+    "General Understanding/Main Synopsis.md",
+    "Mysteries and Parapsychology/Science Behind Ghosts/Science Behind Ghosts.canvas",
+    "Philosophy/Stoicism.md",
+    "Philosophy/Philosphy.canvas",
+    "Information Technology/Jarvis/Publically Available Stuff.md",
+    "Human Brain and Body/Books/The Brain by David Eagleman/Chapter 2 - What is Reality.md",
     "Human Brain and Body/Books/Livewired by David Eagleman/Chapter 1 - The Electric Living Fabric.md",
     "Human Brain and Body/Books/The Brain by David Eagleman/Chapter 1 - Who Am I.md",
     "Philosophy/Cynicism.md",
     "Human Brain and Body/Books/Livewired by David Eagleman",
-    "Mysteries and Parapsychology/Science Behind Ghosts/Science Behind Ghosts.canvas",
     "Mysteries and Parapsychology/Science Behind Ghosts/Blindfold Tests.md",
     "Mysteries and Parapsychology/Science Behind Ghosts/Ideomotor Effect.md",
     "Mysteries and Parapsychology/Science Behind Ghosts/Mass Psychogenic Illness.md",
     "Mysteries and Parapsychology/Science Behind Ghosts/Main Synopsis.md",
-    "Information Technology/Jarvis/Publically Available Stuff.md",
     "Information Technology/Darknet/How to Create a Darknet Site With Custom Domain.md",
-    "General Understanding/Altered states of consciousnes.md",
-    "General Understanding/Hemisync.md",
-    "General Understanding/Main Synopsis.md",
-    "General Understanding/The CIA Gateway Process.md",
     "Information Technology/Jarvis",
-    "Untitled",
     "[.md",
-    "Philosophy/Philosphy.canvas",
     "General Understanding",
     "Human Brain and Body/Books/The Brain by David Eagleman/Untitled.canvas",
     "Human Brain and Body/Books/The Brain by David Eagleman/Pasted image 20230701104530.png",
     "Human Brain and Body/Books/The Brain by David Eagleman/Pasted image 20230701104445.png",
     "The Brain - David Eagleman.md",
-    "Philosophy/Stoicism.md",
-    "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Part 1 - The Coolidge Effect.md",
     "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Your Brain on Porn.canvas",
     "Mass Psychogenic Illness.md",
     "Untitled.md",
@@ -198,15 +182,12 @@
     "Mysteries and Parapsychology",
     "Information Technology/Darknet",
     "Information Technology",
-    "Human Brain and Body/Books/The Brain by David Eagleman/Chapter 2 - What is Reality.md",
     "Human Brain and Body/Books/Books.md",
     "Philosophy",
     "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Part 3 - Dopamine the molecule of Addiction.md",
     "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Part 2 - The Reward Circuit.md",
     "brain-sides-concept-illustration_114360-13064.jpg",
-    "Untitled.canvas",
     "Human Brain and Body/Documentaries and Videos/Your Brain on Porn",
-    "Human Brain and Body.md",
     "Untitled 1.canvas"
   ]
 }
