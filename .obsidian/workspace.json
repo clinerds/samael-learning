@@ -8,18 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9e3dc21c3c73339f",
+            "id": "1b2d31871bf4611a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "To-Learn/To-Learn.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "3d_graph_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "07f066bd9702153f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To-Learn/To-Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To-Learn/To-Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "To-Learn/To-Learn.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -149,14 +150,15 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "9e3dc21c3c73339f",
+  "active": "07f066bd9702153f",
   "lastOpenFiles": [
+    "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Part 1 - The Coolidge Effect.md",
+    "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Part 2 - The Reward Circuit.md",
+    "To-Learn/To-Learn.md",
     "General Understanding/Mains Synopsis.canvas",
     "General Understanding/Frequencies/The Scientific Study.md",
     "General Understanding/Frequencies/The Ancient Solfeggio Scale Explained.md",
-    "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Part 1 - The Coolidge Effect.md",
     "General Understanding/Frequencies",
-    "To-Learn/To-Learn.md",
     "To-Learn",
     "General Understanding/Altered states of consciousnes.md",
     "Untitled.canvas",
