@@ -12,5 +12,5 @@
 - 🌑 Ouija boards are popular tools to communicate with spirits, but the ideomotor effect explains the movements
 - 👻 Ideomotor effect is the unconscious movement of our bodies in response to subconscious suggestions
 - 🔍 [[Blindfold Tests]] reveal that Ouija board movements are controlled by participants, not spirits
-- 💀 Claims of possession and automatic writing can also be attributed to the [[Ideomotor Effect]]
+- 💀 Claims of possession and automatic writing can also be attributed to the [[Ideomotor-Effect]]
 

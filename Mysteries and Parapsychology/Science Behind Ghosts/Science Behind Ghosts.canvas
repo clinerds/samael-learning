@@ -3,7 +3,7 @@
 		{"type":"file","file":"Mysteries and Parapsychology/Science Behind Ghosts/Blindfold Tests.md","id":"ed2be78ffa36ff6c","x":560,"y":92,"width":400,"height":400},
 		{"type":"file","file":"Mysteries and Parapsychology/Science Behind Ghosts/Main Synopsis.md","id":"1f8f470777c3a870","x":-240,"y":-400,"width":400,"height":400},
 		{"type":"file","file":"Mysteries and Parapsychology/Science Behind Ghosts/Mass Psychogenic Illness.md","id":"9852f0ba8373ad46","x":1320,"y":-508,"width":400,"height":400},
-		{"type":"file","file":"Mysteries and Parapsychology/Science Behind Ghosts/Ideomotor Effect.md","id":"f38030a8590cf2f1","x":440,"y":-908,"width":400,"height":400}
+		{"type":"file","file":"Mysteries and Parapsychology/Science Behind Ghosts/Ideomotor-Effect.md","id":"f38030a8590cf2f1","x":440,"y":-908,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"6c9466be49235543","fromNode":"1f8f470777c3a870","fromSide":"right","toNode":"f38030a8590cf2f1","toSide":"left"},

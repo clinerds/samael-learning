@@ -12,7 +12,7 @@ Blindfold tests involve conducting experiments in which participants use the Oui
 
 Blindfold tests have consistently shown that participants are the ones controlling the movements of the Ouija board. In the absence of visual input, their unconscious movements, guided by their expectations and beliefs, direct the planchette. 👤⚙️🔀
 
-#### [[Ideomotor Effect]]: 🤔💡
+#### [[Ideomotor-Effect]]: 🤔💡
 
 The ideomotor effect is the key explanation behind the movements observed during Ouija board sessions. It suggests that subtle, involuntary muscle movements, often influenced by unconscious thoughts, can guide our actions without conscious awareness. These minute movements account for the planchette's motion on the board. 💪📐🔀
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Human Brain and Body/Documentaries and Videos/Consciousness and Perception - Unscholar/Understanding the Basics of Consciousness and Awareness.md",
+                "file": "Ancient Civilization and History/The Annunaki - Unscholar/The Annunaki Ancient Mesopotamian deities associated with creation and human civilization - The Annunaki Series Part 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Human Brain and Body/Documentaries and Videos/Consciousness and Perception - Unscholar/Understanding the Basics of Consciousness and Awareness.md",
+                "file": "Ancient Civilization and History/The Annunaki - Unscholar/The Annunaki Ancient Mesopotamian deities associated with creation and human civilization - The Annunaki Series Part 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Human Brain and Body/Documentaries and Videos/Consciousness and Perception - Unscholar/Understanding the Basics of Consciousness and Awareness.md",
+                "file": "Ancient Civilization and History/The Annunaki - Unscholar/The Annunaki Ancient Mesopotamian deities associated with creation and human civilization - The Annunaki Series Part 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Human Brain and Body/Documentaries and Videos/Consciousness and Perception - Unscholar/Understanding the Basics of Consciousness and Awareness.md"
+                "file": "Ancient Civilization and History/The Annunaki - Unscholar/The Annunaki Ancient Mesopotamian deities associated with creation and human civilization - The Annunaki Series Part 1.md"
               }
             }
           }
@@ -146,20 +146,34 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "0685bd3e3ece35d2",
   "lastOpenFiles": [
-    "Human Brain and Body/Documentaries and Videos/Consciousness and Perception - Unscholar/Understanding the Basics of Consciousness and Awareness InfoGraphic.md",
-    "Human Brain and Body/Documentaries and Videos/Consciousness and Perception - Unscholar/Understanding the Basics of Consciousness and Awareness.md",
-    "Human Brain and Body/Documentaries and Videos/Consciousness and Perception - Unscholar/Consciousness and Perception.md",
-    "Human Brain and Body/Documentaries and Videos/Consciousness and Perception - Unscholar",
-    "General Understanding/Serial Killers/The Zodiac Killer.md",
+    "Ancient Civilization and History/The Annunaki - Unscholar",
+    "Mysteries and Parapsychology/Science Behind Ghosts/Blindfold Tests.md",
     "General Understanding/Life After Death/Consciousness Arises from The Activity of Specific Patterns of Neurons in the Brain - Question Mark.md",
+    "General Understanding/Life After Death/Characteristics Of a Near Death Experience.md",
+    "Human Brain and Body/Books/The Brain by David Eagleman/Pasted image 20230710192736.png",
+    "Human Brain and Body/Documentaries and Videos/Consciousness and Perception - Unscholar/Consciousness and Perception.md",
+    "Human Brain and Body/Documentaries and Videos/Consciousness and Perception - Unscholar/Understanding the Basics of Consciousness and Awareness.md",
+    "Human Brain and Body/Documentaries and Videos/Consciousness and Perception - Unscholar/Understanding the Basics of Consciousness and Awareness InfoGraphic.md",
+    "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Your Brain on Porn.canvas",
+    "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Part 3 - Dopamine the molecule of Addiction.md",
+    "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Part 2 - The Reward Circuit.md",
+    "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Part 1 - The Coolidge Effect.md",
+    "Mysteries and Parapsychology/Science Behind Ghosts/Mass Psychogenic Illness.md",
+    "Mysteries and Parapsychology/Science Behind Ghosts/Main Synopsis.md",
+    "Mysteries and Parapsychology/Science Behind Ghosts/Ideomotor-Effect.md",
+    "Mysteries and Parapsychology/Science Behind Ghosts/Science Behind Ghosts.canvas",
+    "Ancient Civilization and History/The Annunaki - Unscholar/The Annunaki Ancient Mesopotamian deities associated with creation and human civilization - The Annunaki Series Part 1.md",
+    "General Understanding/Serial Killers/The Zodiac Killer.md",
+    "Ancient Civilization and History",
+    "Human Brain and Body/Documentaries and Videos/Consciousness and Perception - Unscholar",
     "General Understanding/Serial Killers",
     "General Understanding/Life After Death/The Weight of Soul - Question Mark.md",
-    "General Understanding/Life After Death/Characteristics Of a Near Death Experience.md",
     "General Understanding/Life After Death/Orchestrated objective reduction (Orch-OR) Quantum Theory of Consciousness.md",
     "General Understanding/Life After Death/Physiological Explanation of Near Death Experience.md",
     "General Understanding/Life After Death/The Near Death Experience.md",
@@ -169,33 +183,20 @@
     "General Understanding/The CIA Gateway Process/The CIA Gateway Process.md",
     "General Understanding/The CIA Gateway Process/Hemisync.md",
     "General Understanding/The CIA Gateway Process",
-    "Human Brain and Body/Books/The Brain by David Eagleman/Pasted image 20230710192736.png",
     "General Understanding/Life After Death",
-    "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Part 1 - The Coolidge Effect.md",
-    "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Part 2 - The Reward Circuit.md",
     "To-Learn/To-Learn.md",
     "General Understanding/Frequencies/The Scientific Study.md",
     "General Understanding/Frequencies/The Ancient Solfeggio Scale Explained.md",
     "General Understanding/Frequencies",
     "To-Learn",
     "Untitled.canvas",
-    "Mysteries and Parapsychology/Science Behind Ghosts/Science Behind Ghosts.canvas",
-    "Philosophy/Stoicism.md",
     "Philosophy/Philosphy.canvas",
-    "Information Technology/Jarvis/Publically Available Stuff.md",
-    "Human Brain and Body/Books/The Brain by David Eagleman/Chapter 2 - What is Reality.md",
-    "Human Brain and Body/Books/Livewired by David Eagleman/Chapter 1 - The Electric Living Fabric.md",
-    "Human Brain and Body/Books/The Brain by David Eagleman/Chapter 1 - Who Am I.md",
-    "Philosophy/Cynicism.md",
     "Human Brain and Body/Books/Livewired by David Eagleman",
-    "Mysteries and Parapsychology/Science Behind Ghosts/Blindfold Tests.md",
     "Information Technology/Jarvis",
     "General Understanding",
     "Human Brain and Body/Books/The Brain by David Eagleman/Untitled.canvas",
     "Human Brain and Body/Books/The Brain by David Eagleman/Pasted image 20230701104530.png",
     "Human Brain and Body/Books/The Brain by David Eagleman/Pasted image 20230701104445.png",
-    "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Your Brain on Porn.canvas",
-    "Mysteries and Parapsychology/Science Behind Ghosts",
     "brain-sides-concept-illustration_114360-13064.jpg",
     "Untitled 1.canvas"
   ]

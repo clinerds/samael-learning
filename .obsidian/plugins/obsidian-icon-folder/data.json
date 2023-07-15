@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiPyramid",
       "TiWaveSine",
       "SiOpenai",
       "SiTorproject",
-      "😕",
-      "SiFuturelearn"
+      "😕"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,5 +34,6 @@
   "Information Technology/Darknet": "SiTorproject",
   "Information Technology/Jarvis": "SiOpenai",
   "Mysteries and Parapsychology/Science Behind Ghosts": "LiGhost",
-  "General Understanding/Frequencies": "TiWaveSine"
+  "General Understanding/Frequencies": "TiWaveSine",
+  "Ancient Civilization and History": "TiPyramid"
 }
