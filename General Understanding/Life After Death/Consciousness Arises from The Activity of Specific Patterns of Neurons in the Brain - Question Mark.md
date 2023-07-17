@@ -7,3 +7,6 @@ Koch also emphasizes the importance of studying and understanding the relationsh
 Furthermore, Koch has explored the idea that consciousness is not limited to humans but can be found in other animals as well. He argues that consciousness is not exclusive to humans and that certain animals, such as primates and mammals, also possess varying degrees of consciousness based on their brain complexity and capabilities.
 
 It's worth noting that consciousness is a complex and multifaceted topic, and there are various theories and perspectives on it. While Christof Koch's work has contributed significantly to the field, the study of consciousness remains an ongoing area of research and debate within the scientific community.
+
+
+[[Orchestrated objective reduction (Orch-OR) Quantum Theory of Consciousness]]

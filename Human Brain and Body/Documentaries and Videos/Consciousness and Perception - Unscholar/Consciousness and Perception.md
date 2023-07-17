@@ -33,3 +33,5 @@ Imagine you are walking down a busy city street. The sensory information bombard
 However, your perception of the environment may differ from someone else's. For instance, you may notice the vibrant graffiti on a nearby wall, while another person might remain oblivious to it. These differences in perception occur because our brains selectively attend to the stimuli that align with our interests, experiences, and expectations.
 
 In conclusion, consciousness and perception are vital aspects of the human mind. They shape our understanding of the world, influence our thoughts and behaviors, and determine how we interact with our surroundings. Understanding how consciousness and perception work can help us develop self-awareness, challenge our biases, and enhance our overall cognitive abilities.
+
+[[Understanding the Basics of Consciousness and Awareness]]

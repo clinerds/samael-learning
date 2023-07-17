@@ -11,3 +11,6 @@ The collapse of the quantum wave function is known as "objective reduction" (OR)
 In this theory, consciousness is not limited to humans but is potentially a fundamental property of the universe, present in varying degrees in different living organisms. It suggests that consciousness has deep roots in the fabric of reality and is not solely an emergent property of complex biological systems.
 
 It's important to note that the Orch-OR theory is still highly debated and not widely accepted within the scientific community. It is a speculative hypothesis that attempts to bridge the gap between quantum physics and consciousness. Further research and experimental evidence are needed to validate or refute the claims made by this theory.
+
+
+[[Physiological Explanation of Near Death Experience]]

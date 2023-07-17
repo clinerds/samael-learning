@@ -10,3 +10,6 @@ A near-death experience (NDE) refers to a profound subjective experience reporte
 4. **DMT release:** The release of endogenous dimethyltryptamine (DMT) has been suggested as a possible explanation for NDEs. DMT is a powerful hallucinogenic compound that occurs naturally in the human body and is associated with altered states of consciousness. The theory suggests that during life-threatening situations, the body releases DMT, leading to intense hallucinations and mystical experiences often reported during NDEs. However, the actual release and role of DMT in NDEs are still speculative and require further research.
 
 It's important to note that while these theories provide potential physiological explanations for some aspects of NDEs, they do not account for the entirety of the experience. NDEs are complex phenomena, and the subjective nature of these experiences makes it challenging to study them scientifically. Further research is needed to fully understand the mechanisms underlying NDEs and their relationship to brain function and consciousness.
+
+
+[[The Weight of Soul - Question Mark]]

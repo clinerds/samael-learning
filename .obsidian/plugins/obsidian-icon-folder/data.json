@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "TiPyramid",
-      "TiWaveSine",
-      "SiOpenai",
-      "SiTorproject",
-      "😕"
+      "SiAwsfargate",
+      "SiTableau",
+      "LiSkull",
+      "LiView",
+      "SiPlanetscale"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,5 +35,10 @@
   "Information Technology/Jarvis": "SiOpenai",
   "Mysteries and Parapsychology/Science Behind Ghosts": "LiGhost",
   "General Understanding/Frequencies": "TiWaveSine",
-  "Ancient Civilization and History": "TiPyramid"
+  "Ancient Civilization and History": "TiPyramid",
+  "Ancient Civilization and History/The Annunaki Series - Unscholar": "SiPlanetscale",
+  "Human Brain and Body/Documentaries and Videos/Consciousness and Perception - Unscholar": "LiView",
+  "General Understanding/Life After Death": "SiTableau",
+  "General Understanding/Serial Killers": "LiSkull",
+  "General Understanding/The CIA Gateway Process": "SiAwsfargate"
 }
