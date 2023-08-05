@@ -217,3 +217,6 @@ In his quest for immortality, Gilgamesh encounters Utnapishtim, a mortal turned 
 The Epic of Gilgamesh serves as a reminder of the Sumerian belief in the temporary nature of mortal life and the inevitability of the dark and dreary afterlife in Kur. It underscores their perspective on the afterlife, unlike the Egyptians and Greeks, which was not a realm of divine judgment, but merely a continuation of life in a darker, gloomier place.
 
 To fully understand the beliefs of an ancient civilization, it is crucial to approach their mythology, literature, and rituals with respect and curiosity. Only through these lenses can we hope to comprehend their worldview and gain insights into their world, as distant and different as it might be from our own.
+
+
+[[Enki and Enlil - Two prominent Annunaki gods, associated with wisdom and kingship respectively - The Annunaki Series Part 3]]
