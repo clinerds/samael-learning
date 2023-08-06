@@ -1,3 +1,4 @@
+#Parapsychology #IdeomotorEffect #OuijaBoard 
 The ideomotor effect is a fascinating phenomenon that can be explained in simple terms. 🧠💪✨
 
 When we have unconscious thoughts or beliefs, our muscles can sometimes respond without us even realizing it. This is the ideomotor effect in action! 🤔💭💪

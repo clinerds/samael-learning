@@ -1,8 +1,6 @@
 {
   "accentColor": "",
-  "cssTheme": "AnuPpuccin",
+  "cssTheme": "Darkyan",
   "baseFontSize": 18,
-  "enabledCssSnippets": [
-    "translucent"
-  ]
+  "enabledCssSnippets": []
 }

@@ -1,3 +1,4 @@
+#MainSynopsis #Parapsychology 
 #### Summary
  It explores various examples of ghostly encounters, movies inspired by real events, and the use of Ouija boards for communication with spirits. The video also delves into psychological explanations such as the ideomotor effect and mass psychogenic illness.
 

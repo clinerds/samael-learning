@@ -1,9 +1,11 @@
 {
 	"nodes":[
-		{"type":"file","file":"Philosophy/Cynicism.md","id":"e555e28985036e3a","x":-134,"y":18,"width":400,"height":400},
-		{"type":"file","file":"Philosophy/Stoicism.md","id":"71118e235d49067f","x":680,"y":-182,"width":400,"height":400}
+		{"type":"file","file":"Philosophy/Stoicism.md","id":"71118e235d49067f","x":640,"y":-182,"width":400,"height":400},
+		{"id":"c660c26695958ec4","x":-240,"y":-582,"width":400,"height":400,"type":"file","file":"Philosophy/How to Become an Übermensch — Nietzsche's Three Metamorphoses.md"},
+		{"type":"file","file":"Philosophy/Cynicism.md","id":"e555e28985036e3a","x":-240,"y":120,"width":400,"height":400}
 	],
 	"edges":[
-		{"id":"d5eb00e3ded72219","fromNode":"e555e28985036e3a","fromSide":"right","toNode":"71118e235d49067f","toSide":"left"}
+		{"id":"d5eb00e3ded72219","fromNode":"e555e28985036e3a","fromSide":"right","toNode":"71118e235d49067f","toSide":"left"},
+		{"id":"6c6d940505e63097","fromNode":"c660c26695958ec4","fromSide":"right","toNode":"71118e235d49067f","toSide":"left"}
 	]
 }

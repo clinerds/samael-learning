@@ -4,22 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "0ac05af571f96d06",
+        "id": "6781e11ca5c4f904",
         "type": "tabs",
         "children": [
           {
-            "id": "93c5e568c7150557",
+            "id": "798002f882662a18",
+            "type": "leaf",
+            "state": {
+              "type": "3d_graph_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "df9b46a72e236321",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Understanding/Polyphasic Sleep/Peer Reviewed Research.md",
+                "file": "Journal.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "3611e766f18765eb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Remove",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Understanding/Polyphasic Sleep/Peer Reviewed Research.md",
+                "file": "Journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Understanding/Polyphasic Sleep/Peer Reviewed Research.md",
+                "file": "Journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Understanding/Polyphasic Sleep/Peer Reviewed Research.md"
+                "file": "Journal.md"
               }
             }
           }
@@ -151,51 +168,51 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "93c5e568c7150557",
+  "active": "df9b46a72e236321",
   "lastOpenFiles": [
-    "General Understanding/Polyphasic Sleep/Polyphasic Sleep.md",
-    "General Understanding/Polyphasic Sleep/Before You Start.md",
-    "General Understanding/Polyphasic Sleep/How to Adapt.md",
-    "General Understanding/Polyphasic Sleep/Peer Reviewed Research.md",
-    "General Understanding/Polyphasic Sleep",
-    "nb-mentoring-patreon.png.md",
-    "Let's try one more time.md",
-    "Are We Syncing.md",
-    "~syncthing~Let's try one more time.md.tmp",
-    "Ancient Civilization and History/The Annunaki Series - Unscholar/Sumerian Mythology - Study of the ancient Sumerian civilization and their religious beliefs  - The Annunaki Series Part 2.md",
-    "~syncthing~Are We Syncing.md.tmp",
-    "Untitled.canvas",
-    "Ancient Civilization and History/The Annunaki Series - Unscholar/Enki and Enlil - Two prominent Annunaki gods, associated with wisdom and kingship respectively - The Annunaki Series Part 3.md",
+    "General Understanding/Frequencies/The Ancient Solfeggio Scale Explained.md",
+    "Journal.md",
+    "Information Technology/Darknet/How to Create a Darknet Site With Custom Domain.md",
     "Ancient Civilization and History/The Sumerian Epic/The Great Celestial Battle ~ The Sumerian Epic (Part 1).md",
     "Conspiracy Theories/The Hollow Moon.md",
-    "Ancient Civilization and History/The Silurian Hypothesis/The Silurian Hypothesis.md",
-    "Ancient Civilization and History/The Annunaki Series - Unscholar/The Annunaki Ancient Mesopotamian deities associated with creation and human civilization - The Annunaki Series Part 1.md",
+    "Conspiracy Theories/Project Stargate.md",
+    "Philosophy/How to Become an Übermensch — Nietzsche's Three Metamorphoses.md",
+    "Philosophy/Cynicism.md",
+    "General Understanding/The CIA Gateway Process/Altered states of consciousnes.md",
+    "Human Brain and Body/Books/The Brain by David Eagleman/The Brain by David Eagleman - Summary.md",
+    "To-Learn/To-Learn.md",
+    "Philosophy/Stoicism.md",
+    "Mysteries and Parapsychology/Science Behind Ghosts/Mass Psychogenic Illness.md",
+    "Mysteries and Parapsychology/Science Behind Ghosts/Main Synopsis.md",
+    "Mysteries and Parapsychology/Science Behind Ghosts/Ideomotor-Effect.md",
+    "Mysteries and Parapsychology/Science Behind Ghosts/Blindfold Tests.md",
+    "Information Technology/Jarvis/Publically Available Stuff.md",
+    "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Part 3 - Dopamine the molecule of Addiction.md",
+    "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Part 2 - The Reward Circuit.md",
+    "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Part 1 - The Coolidge Effect.md",
+    "Human Brain and Body/Documentaries and Videos/Consciousness and Perception - Unscholar/Understanding the Basics of Consciousness and Awareness InfoGraphic.md",
+    "Human Brain and Body/Documentaries and Videos/Consciousness and Perception - Unscholar/Understanding the Basics of Consciousness and Awareness.md",
+    "Human Brain and Body/Documentaries and Videos/Consciousness and Perception - Unscholar/Consciousness and Perception.md",
+    "Human Brain and Body/Books/The Brain by David Eagleman/Who Am I.md",
+    "Human Brain and Body/Books/Livewired by David Eagleman/Livewired by David Eagleman - Summary.md",
+    "General Understanding/Mini Teasures.md",
+    "Human Brain and Body/Books/The Brain by David Eagleman/Pasted image 20230710192736.png",
+    "Human Brain and Body/Books/The Brain by David Eagleman/Untitled.canvas",
+    "Mysteries and Parapsychology/Science Behind Ghosts/Science Behind Ghosts.canvas",
+    "Philosophy/Philosphy.canvas",
+    "General Understanding/Polyphasic Sleep",
+    "~syncthing~Let's try one more time.md.tmp",
+    "~syncthing~Are We Syncing.md.tmp",
+    "Untitled.canvas",
     "journals/2023_08_05.md.crswap",
-    "journals/2023_08_05.md",
     "pages/contents.md.crswap",
     "logseq/custom.css",
-    "pages/contents.md",
     "pages",
     "logseq/config.edn.crswap",
     "logseq/config.edn",
     "journals",
-    "Ancient Civilization and History/The Sumerian Epic/The Twelfth Planet ~ The Sumerian Epic (Part 2).md",
-    "General Understanding/Life After Death/The Weight of Soul - Question Mark.md",
     "General Understanding/Mini Teasures.canvas",
-    "General Understanding/Life After Death/Characteristics Of a Near Death Experience.md",
-    "General Understanding/Mini Teasures.md",
-    "To-Learn/To-Learn.md",
-    "Information Technology/Darknet/How to Create a Darknet Site With Custom Domain.md",
-    "Excalidraw/Drawing 2023-07-15 20.47.16.excalidraw.md",
-    "excalibrain.md",
-    "General Understanding/Frequencies/The Ancient Solfeggio Scale Explained.md",
-    "General Understanding/Life After Death/The Near Death Experience.md",
-    "General Understanding/Life After Death/Consciousness Arises from The Activity of Specific Patterns of Neurons in the Brain - Question Mark.md",
-    "Human Brain and Body/Books/The Brain by David Eagleman/Pasted image 20230710192736.png",
     "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Your Brain on Porn.canvas",
-    "Mysteries and Parapsychology/Science Behind Ghosts/Science Behind Ghosts.canvas",
-    "Philosophy/Philosphy.canvas",
-    "Human Brain and Body/Books/The Brain by David Eagleman/Untitled.canvas",
     "Human Brain and Body/Books/The Brain by David Eagleman/Pasted image 20230701104530.png",
     "Human Brain and Body/Books/The Brain by David Eagleman/Pasted image 20230701104445.png",
     "brain-sides-concept-illustration_114360-13064.jpg",

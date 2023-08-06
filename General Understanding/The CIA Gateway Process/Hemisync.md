@@ -1,3 +1,4 @@
+#Consciousness  #Hemysync #CIA #BinauralBeats 
 In 1975, Monroe registered the first of several patents  concerning audio techniques designed to stimulate brain functions until the left and right hemispheres became synchronized. Monroe held that this state, dubbed Hemi-Sync (hemispherical synchronization), could be used to promote mental well-being or to trigger an altered state of consciousness. 
 
 Monroe's concept was based on an earlier hypothesis known as binaural beats and has since been expanded upon a commercial basis by the self-help industry.[

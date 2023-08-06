@@ -1,3 +1,4 @@
+#MiniTeasures #GeneralUnderstanding 
 #### The Baader-Meinhof phenomenon
 
 The Baader-Meinhof phenomenon, also known as frequency bias or the perception of frequency, is when you become aware of something and start noticing it everywhere, even though its occurrence hasn't actually increased. 

@@ -1,4 +1,4 @@
-
+#Frequencies #Solfeggio #CIA #BinauralBeats 
 The ancient Solfeggio scale, known as “Just Intonation”, is renowned for its use in the Gregorian chants, but its history can be traced back to Biblical times. The 6-tone scale, and an additional 3 tones discovered since, is considered by many musicologists and scientists to have a positive effect on the mind and body.
 
 Back in the 11th century, a Benedictine monk named Guido d’Arezzo introduced the musical scale we now know as the Solfeggio frequencies – though modern research contests that the scale dates back much further 

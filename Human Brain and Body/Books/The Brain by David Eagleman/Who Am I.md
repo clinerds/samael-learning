@@ -1,5 +1,5 @@
 #TheBrainByDavidEagleman
-#Book
+#Book #Chapter
 
 #### Born Unfinished:
 
@@ -101,4 +101,4 @@ You don't perceive objects as they are You perceive them as you are.
 As your trillions of new connections continually form and re-form, the distinctive pattern means that no one like you has ever existed, or will ever exist
 
 
-[[Chapter 2 - What is Reality]]
+[[The Brain by David Eagleman - Summary]]

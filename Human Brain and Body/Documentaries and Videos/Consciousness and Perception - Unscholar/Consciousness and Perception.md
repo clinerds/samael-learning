@@ -1,3 +1,4 @@
+#Consciousness #Brain 
 ### Consciousness: Awareness of one's thoughts, feelings, and surroundings. 
 
 ### Perception: The process of interpreting sensory information and making sense 

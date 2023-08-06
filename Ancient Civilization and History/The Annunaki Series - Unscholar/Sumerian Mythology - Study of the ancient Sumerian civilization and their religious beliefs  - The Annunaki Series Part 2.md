@@ -1,3 +1,4 @@
+#TheAnnunaki #AncientCivilization
 🔍 Interesting Fact: Did you know that the ancient Sumerian civilization is considered one of the oldest known civilizations in the world, dating back to around 4500 BC? Their rich history includes many fascinating myths and religious beliefs, including the famous tales of the Annunaki.
 
 Step: Sumerian Mythology: Study of the ancient Sumerian civilization and their religious beliefs

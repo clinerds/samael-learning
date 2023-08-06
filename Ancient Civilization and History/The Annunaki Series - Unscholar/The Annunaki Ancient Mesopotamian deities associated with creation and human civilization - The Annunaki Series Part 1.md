@@ -1,3 +1,4 @@
+#TheAnnunaki #AncientCivilization
 🔍 Interesting Fact: Did you know that the Annunaki are often mentioned in ancient Mesopotamian texts, such as the Epic of Gilgamesh, making them a fascinating subject of study for historians and mythologists?
 
 🗂️ Step: "The Annunaki: Ancient Mesopotamian deities associated with creation and human civilization."

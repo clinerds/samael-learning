@@ -1,3 +1,4 @@
+#Sleep #ScientificStudy 
 ## **Introduction**
 
 The aim of this section is to share scientific, peer-reviewed articles on polyphasic and biphasic sleep in adult humans. Many of the studies have a short summary in hopes to ease the search process of people looking for specific points or claims. If you find an article about polyphasic sleep that is not included in this list, do not hesitate to contact the moderators on **[Reddit](https://www.reddit.com/r/polyphasic/)** or **[Discord](https://discordapp.com/invite/UJcbfby)**.

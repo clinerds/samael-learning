@@ -1,3 +1,4 @@
+#TheSumerians #AncientCivilization
 #### Summary
 The text delves into the legend of Tiamat and Marduk, a celestial battle between deities in our solar system's early history. Zecharia Sitchin, a young boy fascinated by the Nephilim question, deciphered Sumerian tablets to uncover a myth potentially describing real events. He proposed a theory popularized in his book "The 12th Planet," suggesting the existence of a missing planet named Nibiru. This planet's alleged interactions caused significant changes in the solar system, explaining anomalies such as the asteroid belt, Uranus's tilt, and the moon's formation. While Sitchin's theory faces criticism, it remains a fascinating exploration of ancient myths and scientific possibilities.
 

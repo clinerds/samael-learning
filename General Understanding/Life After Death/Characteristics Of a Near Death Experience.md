@@ -1,4 +1,4 @@
-
+#NearDeathExperience #ScientificStudy 
 Most [NDEs](https://www.iands.org/ndes/about-ndes/key-nde-facts21.html) are felt as peaceful and loving, but some are disturbing. Each [near-death experience](https://www.iands.org/ndes/about-ndes.html) is unique, but as a group NDEs display common features.
 
 - Intense emotions: commonly of profound peace, well-being, love; others marked by fear, horror, loss

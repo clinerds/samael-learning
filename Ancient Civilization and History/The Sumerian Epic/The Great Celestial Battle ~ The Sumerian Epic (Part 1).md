@@ -1,3 +1,4 @@
+#TheSumerians #AncientCivilization
 #### Summary
 The transcript delves into the nature of scientific and historical theories while focusing on a historical theory about the rise of human civilization in Mesopotamia, particularly the Sumerian culture. It explores the groundbreaking discoveries made by archaeologists, including the unearthing of clay tablets with cuneiform writing, considered one of the earliest writing systems. The Sumerian civilization is credited with numerous inventions and achievements, such as the first schools, writing methods, library, agriculture, and more. The transcript also examines the Sumerian religious beliefs and their influence on other cultures and religions, including parallels found in the Bible. It concludes by discussing modern interpretations of the Sumerian creation epic and its possible connections to the Kabbalistic Tree of Life and planetary collisions.
 

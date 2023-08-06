@@ -1,4 +1,0 @@
-#LivewiredByDavidEaglema
-#Book
-
-#### 

@@ -1,3 +1,4 @@
+#Philosophy #Cynicism #Diogenes 
 #### Summary
 The philosophy of cynicism, rooted in the life of Diogenes of Sinope in the 4th century BCE, promotes freedom by rejecting societal norms and measures of success. Diogenes lived a simple and self-sufficient life, mocking the powerful and embracing a carefree existence. His followers, known as Cynics, upheld his principles for about 900 years. The philosophy faced both admiration and criticism throughout history, with some attempting to tone it down and others using the term "cynic" as an insult. However, it has continued to inspire those who question the state of society, including figures like Rousseau, Nietzsche, and the countercultural movement of the 1960s.
 
@@ -16,3 +17,5 @@ The philosophy of cynicism, rooted in the life of Diogenes of Sinope in the 4th 
 - 💡 The philosophy of cynicism found resonance with the countercultural rebels of the 1960s, who questioned societal norms and conventions.
 - 💡 The original cynics believed that rejecting custom and living closely with nature were the only true values.
 - 💡 Despite differing interpretations and adaptations, the philosophy of cynicism encourages questioning the status quo and critically evaluating what is truly valuable in society.
+
+[[How to Become an Übermensch — Nietzsche's Three Metamorphoses]]

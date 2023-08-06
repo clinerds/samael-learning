@@ -1,3 +1,4 @@
+#Conspiracy #Moon #NASA
 #### Summary
 A compelling theory is presented suggesting that the moon is not a natural celestial body but a hollow artificial spaceship brought to Earth by intelligent beings. The video covers various anomalies and unanswered questions surrounding the moon's formation, composition, and characteristics that have puzzled scientists for years. The theory gains support from ancient myths and legends from different cultures that speak of a time when the moon was not present in the sky.
 
@@ -18,3 +19,5 @@ A compelling theory is presented suggesting that the moon is not a natural celes
 https://en.wikipedia.org/wiki/Hollow_Moon
 https://www.youtube.com/watch?v=laXhTcko-lg&ab_channel=TheWhyFiles
 
+
+[[Project Stargate]]

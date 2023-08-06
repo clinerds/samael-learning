@@ -1,3 +1,4 @@
+#Darknet #InformationTechnology 
 This tutorial consists of three steps
 
 0. Preparing your computer (Not a step)
@@ -367,22 +368,22 @@ I wanted to search for English words in the output, so I used the /usr/share/dic
 
 At first I tried the following, but it turned out to be **extremely inefficient** and could **cause a system crash**, so I do not recommend trying this yourself!
 
-#Install wbritish if required
+Install wbritish if required
 sudo apt-get install wbritish
 
-#Make a copy of the british-english dictionary for searching
+Make a copy of the british-english dictionary for searching
 cp /usr/share/dict/british-english wordlist.txt
 
-#Remove one character words
+Remove one character words
 grep -v "^[A-Za-z]$" wordlist.txt > wordlist2.txt
 
-#Remove two character words
+Remove two character words
 grep -v "^[A-Za-z][A-Za-z]$" wordlist2.txt > wordlist.txt
 
-#Remove "onion", "Onion", "Jamie", "ion", "Jami", "jam" & "Amie"
+Remove "onion", "Onion", "Jamie", "ion", "Jami", "jam" & "Amie"
 egrep -v "(^onion$|^Onion$|^ion$|^Jamie$|^Amie$|^Jami$|^jam$)" wordlist.txt > wordlist2.txt
 
-#Find words from wordlist2.txt in onion-v3-export.txt
+Find words from wordlist2.txt in onion-v3-export.txt
 **This could crash your system, be careful!**
 grep -iFf wordlist2.txt onion-v3-export.txt
 
