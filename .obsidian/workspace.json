@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal.md",
+                "file": "General Understanding/Kardashev Scale/The Kardashev Scale of Civilization.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Remove",
+                "query": "tag:#KardashevScale",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +82,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal.md",
+                "file": "General Understanding/Kardashev Scale/The Kardashev Scale of Civilization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal.md",
+                "file": "General Understanding/Kardashev Scale/The Kardashev Scale of Civilization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal.md"
+                "file": "General Understanding/Kardashev Scale/The Kardashev Scale of Civilization.md"
               }
             }
           }
@@ -170,6 +171,8 @@
   },
   "active": "df9b46a72e236321",
   "lastOpenFiles": [
+    "General Understanding/Kardashev Scale/The Kardashev Scale of Civilization.md",
+    "General Understanding/Kardashev Scale",
     "General Understanding/Frequencies/The Ancient Solfeggio Scale Explained.md",
     "Journal.md",
     "Information Technology/Darknet/How to Create a Darknet Site With Custom Domain.md",
@@ -195,7 +198,6 @@
     "Human Brain and Body/Documentaries and Videos/Consciousness and Perception - Unscholar/Consciousness and Perception.md",
     "Human Brain and Body/Books/The Brain by David Eagleman/Who Am I.md",
     "Human Brain and Body/Books/Livewired by David Eagleman/Livewired by David Eagleman - Summary.md",
-    "General Understanding/Mini Teasures.md",
     "Human Brain and Body/Books/The Brain by David Eagleman/Pasted image 20230710192736.png",
     "Human Brain and Body/Books/The Brain by David Eagleman/Untitled.canvas",
     "Mysteries and Parapsychology/Science Behind Ghosts/Science Behind Ghosts.canvas",
@@ -210,7 +212,6 @@
     "pages",
     "logseq/config.edn.crswap",
     "logseq/config.edn",
-    "journals",
     "General Understanding/Mini Teasures.canvas",
     "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Your Brain on Porn.canvas",
     "Human Brain and Body/Books/The Brain by David Eagleman/Pasted image 20230701104530.png",
