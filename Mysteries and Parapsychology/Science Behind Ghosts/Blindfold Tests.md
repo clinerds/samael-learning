@@ -1,4 +1,4 @@
-#Parapsychology #OuijaBoard #TheBlindfoldTests
+#Parapsychology #OuijaBoard #TheBlindfoldTests #ScientificStudy 
 # The Truth Behind Ouija Board Movements: Revealed by Blindfold Tests 👀👻🔍
 
 #### Introduction:

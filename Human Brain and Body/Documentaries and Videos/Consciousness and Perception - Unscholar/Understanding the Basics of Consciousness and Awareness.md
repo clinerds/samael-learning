@@ -1,4 +1,4 @@
-#Consciousness #Brain 
+#Consciousness #Brain #ScientificStudy 
 - Define consciousness as the state of being aware of one's thoughts, feelings, and surroundings.
 - Explain the importance of self-awareness in personal growth and development.
 - Discuss the different levels of consciousness, such as the conscious, subconscious, and unconscious mind.

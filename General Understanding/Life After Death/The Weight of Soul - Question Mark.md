@@ -1,4 +1,4 @@
-#ScientificStudy 
+#ScientificStudy #Hypothetical
 The 21 grams experiment is a famous but controversial experiment that dates back to the early 20th century. It was conducted by a doctor named Duncan MacDougall in 1907. The purpose of the experiment was to investigate whether the human soul had a physical weight.
 
 MacDougall believed that the soul, or the essence of a person, had a tangible presence in the body and that it could be measured. He hypothesized that at the moment of death, the soul would leave the body, and this departure would result in a loss of weight.

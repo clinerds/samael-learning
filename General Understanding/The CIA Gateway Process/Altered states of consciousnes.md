@@ -1,4 +1,4 @@
-#Consciousness #CIA #Hemysync #BinauralBeats
+#Consciousness #CIA #Hemysync #BinauralBeats #ScientificStudy 
 An altered state of consciousness refers to a mental state that differs from our usual waking state of awareness. In this state, our perception, thoughts, and experiences may be different from what we normally experience. Altered states of consciousness can be induced through various methods, such as meditation, hypnosis, psychedelics, or specific techniques like Hemi-Sync.
 
 Here are some common types of altered states of consciousness:

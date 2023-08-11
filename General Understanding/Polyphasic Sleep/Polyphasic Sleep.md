@@ -1,4 +1,4 @@
-#Sleep #ScientificStudy 
+#Sleep #ScientificStudy #PolyphasicSleep
 # What is polyphasic sleep?
 
 Polyphasic sleep is the practice of sleeping in numerous smaller blocks during the day as opposed to sleeping once as is common in many countries. The Siesta (popular in Spain), and Segmented (which was widespread before the advent of artificial lighting) sleep schedules are some of the earlier forms that polyphasic sleep has taken. In recent years, there has been an increased interest in this practice, and many other schedules have been developed with increasing research and experimentation. Sleeping polyphasically can:

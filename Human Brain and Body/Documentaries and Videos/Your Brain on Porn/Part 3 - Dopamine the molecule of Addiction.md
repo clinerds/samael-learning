@@ -1,5 +1,5 @@
 #YourBrainOnPorn
-#OtherVideos #Brain #Dopamine 
+#OtherVideos #Brain #Dopamine #ScientificStudy 
 
 #### Summary
 This video discusses the role of dopamine in addiction and the brain's reward system. It explains how dopamine levels rise and fall in response to various stimuli, such as food, sex, and novelty. The video also explores the Coolidge effect and its connection to dopamine, as well as the relationship between dopamine and addiction. It emphasizes that dopamine is associated with wanting and craving, while the actual pleasure of activities like eating and orgasm is likely linked to other neurochemicals called opiates.

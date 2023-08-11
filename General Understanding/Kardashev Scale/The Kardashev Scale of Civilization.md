@@ -1,4 +1,4 @@
-#KardashevScale #AdvancedCivilization
+#KardashevScale #AdvancedCivilization #Hypothetical #ScientificStudy 
 
 Absolutely, let's explore each type of civilization on the Kardashev scale in even greater detail, delving into the implications, challenges, and speculative aspects of each level.
 

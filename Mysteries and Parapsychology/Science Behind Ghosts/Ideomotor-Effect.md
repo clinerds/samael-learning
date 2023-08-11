@@ -1,4 +1,4 @@
-#Parapsychology #IdeomotorEffect #OuijaBoard 
+#Parapsychology #IdeomotorEffect #OuijaBoard #ScientificStudy 
 The ideomotor effect is a fascinating phenomenon that can be explained in simple terms. 🧠💪✨
 
 When we have unconscious thoughts or beliefs, our muscles can sometimes respond without us even realizing it. This is the ideomotor effect in action! 🤔💭💪
@@ -10,3 +10,5 @@ In the context of the Ouija board, the ideomotor effect helps explain the moveme
 So, it's not spirits or supernatural forces causing the planchette to move—it's our own minds and muscles responding to our thoughts and expectations. Understanding the ideomotor effect helps demystify the Ouija board experience and offers a scientific explanation for what may seem paranormal. 🚫👻🤷‍♀️
 
 In a nutshell, the ideomotor effect shows how our thoughts and beliefs can influence our physical actions without us consciously realizing it. It's a fascinating insight into the connection between our minds and bodies! 🧠💭💪
+
+[[Ghost Hunting - The Science of the Other Side]]

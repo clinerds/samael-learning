@@ -1,4 +1,4 @@
-#Consciousness #Brain
+#Consciousness #Brain #Neurons
 Christof Koch is a prominent neuroscientist known for his research and theories on consciousness. He has made significant contributions to the understanding of the neural basis of consciousness and has explored various aspects of the subject.
 
 One of Christof Koch's key theories is the idea that consciousness arises from the activity of specific patterns of neurons in the brain. He suggests that certain combinations of neurons firing in synchrony create the subjective experience of consciousness. According to Koch, these neural correlates of consciousness (NCC) are the key to understanding how and why we have subjective awareness.

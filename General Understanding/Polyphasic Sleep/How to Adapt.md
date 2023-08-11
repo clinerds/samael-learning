@@ -1,4 +1,4 @@
-#Sleep #ScientificStudy 
+#Sleep #ScientificStudy #PolyphasicSleep
 # Introduction
 
 Adapting to a polyphasic sleep schedule is **extremely demanding** and can be extremely taxing both for the body and the mind. Specifically, many people described it as “**the worst thing they have ever done**“. Without knowing what to expect, you are setting yourself up for failure. Luckily, the community has throughout the years been able to investigate and develop multiple practices with the intention of helping YOU adapt successfully.

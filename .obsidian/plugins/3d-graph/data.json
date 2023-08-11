@@ -3,10 +3,43 @@
     "doShowOrphans": true
   },
   "groups": {
-    "groups": []
+    "groups": [
+      {
+        "query": "path:\"Ancient Civilization and History\"",
+        "color": "#67ca16"
+      },
+      {
+        "query": "path:\"General Understanding\"",
+        "color": "#7f1f6e"
+      },
+      {
+        "query": "path:\"Conspiracy Theories\"",
+        "color": "#cf4444"
+      },
+      {
+        "query": "path:\"Human Brain and Body\"",
+        "color": "#127aca"
+      },
+      {
+        "query": "path:Philosophy",
+        "color": "#bababa"
+      },
+      {
+        "query": "path:\"Information Technology\"",
+        "color": "#db2c00"
+      },
+      {
+        "query": "path:\"Mysteries and Parapsychology\"",
+        "color": "#e19d09"
+      },
+      {
+        "query": "path:To-Learn",
+        "color": "#0630fe"
+      }
+    ]
   },
   "display": {
-    "nodeSize": 4,
+    "nodeSize": 3,
     "linkThickness": 5,
     "particleSize": 6,
     "particleCount": 4

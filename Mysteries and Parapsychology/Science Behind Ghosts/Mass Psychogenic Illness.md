@@ -1,4 +1,4 @@
-#Parapsychology #MassPsychogenicIllness
+#Parapsychology #MassPsychogenicIllness #ScientificStudy 
 # Mass Psychogenic Illness: 🤔👻 Shared Delusions and 👽 Paranormal Experiences
 
 #### Introduction:

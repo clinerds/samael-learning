@@ -1,8 +1,7 @@
-#Consciousness #Brain 
+#Consciousness #Brain #ScientificStudy 
 ### Consciousness: Awareness of one's thoughts, feelings, and surroundings. 
 
 ### Perception: The process of interpreting sensory information and making sense 
-
 
 Interesting Fact: Did you know that the human mind is capable of processing over 60,000 thoughts per day? That's like having a busy traffic jam of ideas in your head!
 

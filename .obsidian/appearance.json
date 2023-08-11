@@ -2,5 +2,7 @@
   "accentColor": "",
   "cssTheme": "Darkyan",
   "baseFontSize": 18,
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "translucent"
+  ]
 }
