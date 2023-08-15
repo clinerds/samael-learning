@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasQuestion",
-      "SiAwsfargate",
-      "SiTableau",
-      "LiSkull",
-      "LiView"
+      "IbDocumentVideo",
+      "TiBooks",
+      "SiHackthebox",
+      "TiRobot",
+      "FasQuestion"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -23,13 +23,8 @@
     "iconInTabsEnabled": false
   },
   "General Understanding": "SiUndertale",
-  "Human Brain and Body": "FasBrain",
-  "Human Brain and Body/Books": "FasBook",
-  "Human Brain and Body/Documentaries and Videos": "IbDocumentVideo",
-  "Human Brain and Body/Documentaries and Videos/Your Brain on Porn": "😵‍💫",
   "Information Technology": "SiTryhackme",
   "Mysteries and Parapsychology": "TiAlien",
-  "To-Learn": "SiFuturelearn",
   "Philosophy": "😕",
   "Information Technology/Darknet": "SiTorproject",
   "Information Technology/Jarvis": "SiOpenai",
@@ -37,9 +32,13 @@
   "General Understanding/Frequencies": "TiWaveSine",
   "Ancient Civilization and History": "TiPyramid",
   "Ancient Civilization and History/The Annunaki Series - Unscholar": "SiPlanetscale",
-  "Human Brain and Body/Documentaries and Videos/Consciousness and Perception - Unscholar": "LiView",
   "General Understanding/Life After Death": "SiTableau",
   "General Understanding/Serial Killers": "LiSkull",
   "General Understanding/The CIA Gateway Process": "SiAwsfargate",
-  "Conspiracy Theories": "FasQuestion"
+  "Conspiracy Theories": "FasQuestion",
+  "Learning": "SiFuturelearn",
+  "Learning/Artificial Intelligence and Machine Learning": "TiRobot",
+  "Learning/Cyber Security and Penetration Testing": "SiHackthebox",
+  "Books": "TiBooks",
+  "Documentaries and Videos": "IbDocumentVideo"
 }

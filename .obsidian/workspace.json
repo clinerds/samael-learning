@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dec3d333564274f2",
+        "id": "579d53ae87aa6c73",
         "type": "tabs",
         "children": [
           {
-            "id": "c35d2f9384867d7b",
+            "id": "86ddcea9ad53b7b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mysteries and Parapsychology/Science Behind Ghosts/Ghost Hunting - The Science of the Other Side.md",
+                "file": "Learning/Artificial Intelligence and Machine Learning/Artificial Intelligence and Machine Learning - Roadmap.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ScientificStudy",
+                "query": "tag:#Cyber",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,8 +85,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mysteries and Parapsychology/Science Behind Ghosts/Ghost Hunting - The Science of the Other Side.md",
-                "collapseAll": false,
+                "file": "Learning/Artificial Intelligence and Machine Learning/Artificial Intelligence and Machine Learning - Roadmap.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mysteries and Parapsychology/Science Behind Ghosts/Ghost Hunting - The Science of the Other Side.md",
+                "file": "Learning/Artificial Intelligence and Machine Learning/Artificial Intelligence and Machine Learning - Roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +125,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mysteries and Parapsychology/Science Behind Ghosts/Ghost Hunting - The Science of the Other Side.md"
+                "file": "Learning/Artificial Intelligence and Machine Learning/Artificial Intelligence and Machine Learning - Roadmap.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -151,49 +150,52 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c35d2f9384867d7b",
+  "active": "86ddcea9ad53b7b6",
   "lastOpenFiles": [
+    "Learning/Cyber Security and Penetration Testing/Cyber Security and Penetration Testing - Roadmap.md",
+    "Learning/Artificial Intelligence and Machine Learning/Artificial Intelligence and Machine Learning - Roadmap.md",
+    "Documentaries and Videos/The First 20 Hours - TedTalk/The First 20 hours - How to learn anything - Josh Kaufman.md",
+    "Books/The First 20 Hours by Josh Kaufman/The First 20 Hours by Josh Kaufman - Summary.md",
+    "Books/Livewired by David Eagleman/Livewired by David Eagleman - Summary.md",
+    "Documentaries and Videos/Consciousness and Perception - Unscholar/Understanding the Basics of Consciousness and Awareness InfoGraphic.md",
+    "Documentaries and Videos/Consciousness and Perception - Unscholar/Consciousness and Perception.md",
+    "Documentaries and Videos/The First 20 Hours - TedTalk",
+    "Books/The First 20 Hours by Josh Kaufman",
+    "Human Brain and Body",
+    "Documentaries and Videos/Your Brain on Porn/Your Brain on Porn.canvas",
+    "Documentaries and Videos/Your Brain on Porn/Part 3 - Dopamine the molecule of Addiction.md",
+    "Documentaries and Videos/Your Brain on Porn/Part 2 - The Reward Circuit.md",
+    "Documentaries and Videos/Consciousness and Perception - Unscholar/Understanding the Basics of Consciousness and Awareness.md",
+    "Documentaries and Videos/Your Brain on Porn/Part 1 - The Coolidge Effect.md",
+    "Documentaries and Videos/Your Brain on Porn",
+    "Documentaries and Videos/Consciousness and Perception - Unscholar",
+    "Documentaries and Videos",
+    "Books/The Brain by David Eagleman/The Brain by David Eagleman - Summary.md",
+    "Books/The Brain by David Eagleman/Who Am I.md",
+    "Books/The Brain by David Eagleman/Untitled.canvas",
+    "Books/The Brain by David Eagleman/Pasted image 20230710192736.png",
+    "Books/The Brain by David Eagleman",
+    "Books/Livewired by David Eagleman",
+    "Books",
+    "General Understanding/The First 20 Hour - How to Learn Anything.md",
     "General Understanding/Mini Teasures.md",
+    "Human Brain and Body/Documentaries and Videos/Consciousness and Perception - Unscholar/Consciousness and Perception.md",
+    "Learning/Cyber Security and Penetration Testing",
+    "Learning/To-Learn.md",
+    "General Understanding/What it Takes to Be An Expert/The 4 things it takes to be an expert.md",
+    "Ancient Civilization and History/The Annunaki Series - Unscholar/Sumerian Mythology - Study of the ancient Sumerian civilization and their religious beliefs  - The Annunaki Series Part 2.md",
+    "Ancient Civilization and History/The Sumerian Epic/The Twelfth Planet ~ The Sumerian Epic (Part 2).md",
+    "Ancient Civilization and History/The Sumerian Epic/The Great Celestial Battle ~ The Sumerian Epic (Part 1).md",
+    "General Understanding/The CIA Gateway Process/Altered states of consciousnes.md",
+    "Mysteries and Parapsychology/Science Behind Ghosts/Mass Psychogenic Illness.md",
+    "Mysteries and Parapsychology/Science Behind Ghosts/Main Synopsis.md",
     "Mysteries and Parapsychology/Science Behind Ghosts/Ghost Hunting - The Science of the Other Side.md",
     "General Understanding/Frequencies/The Ancient Solfeggio Scale Explained.md",
-    "General Understanding/Life After Death/Orchestrated objective reduction (Orch-OR) Quantum Theory of Consciousness.md",
-    "General Understanding/Kardashev Scale/The Kardashev Scale of Civilization.md",
-    "Ancient Civilization and History/The Annunaki Series - Unscholar/Enki and Enlil - Two prominent Annunaki gods, associated with wisdom and kingship respectively - The Annunaki Series Part 3.md",
-    "Mysteries and Parapsychology/Science Behind Ghosts/Ideomotor-Effect.md",
-    "Ancient Civilization and History/The Annunaki Series - Unscholar/The Annunaki Ancient Mesopotamian deities associated with creation and human civilization - The Annunaki Series Part 1.md",
-    "Ancient Civilization and History/The Silurian Hypothesis/The Silurian Hypothesis.md",
-    "Conspiracy Theories/Project Stargate.md",
-    "General Understanding/Frequencies/The Scientific Study.md",
-    "General Understanding/Life After Death/The Weight of Soul - Question Mark.md",
-    "General Understanding/Life After Death/The Near Death Experience.md",
-    "General Understanding/Life After Death/Physiological Explanation of Near Death Experience.md",
-    "General Understanding/Life After Death/Consciousness Arises from The Activity of Specific Patterns of Neurons in the Brain - Question Mark.md",
-    "General Understanding/Life After Death/Characteristics Of a Near Death Experience.md",
-    "General Understanding/Polyphasic Sleep/Before You Start.md",
-    "General Understanding/Polyphasic Sleep/How to Adapt.md",
-    "General Understanding/Polyphasic Sleep/Peer Reviewed Research.md",
-    "General Understanding/Polyphasic Sleep/Polyphasic Sleep.md",
-    "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Part 3 - Dopamine the molecule of Addiction.md",
-    "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Part 2 - The Reward Circuit.md",
-    "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Part 1 - The Coolidge Effect.md",
-    "Human Brain and Body/Documentaries and Videos/Consciousness and Perception - Unscholar/Understanding the Basics of Consciousness and Awareness InfoGraphic.md",
-    "Human Brain and Body/Documentaries and Videos/Consciousness and Perception - Unscholar/Understanding the Basics of Consciousness and Awareness.md",
-    "Human Brain and Body/Documentaries and Videos/Consciousness and Perception - Unscholar/Consciousness and Perception.md",
-    "General Understanding/Kardashev Scale",
     "Human Brain and Body/Books/The Brain by David Eagleman/Pasted image 20230710192736.png",
     "Human Brain and Body/Books/The Brain by David Eagleman/Untitled.canvas",
     "Mysteries and Parapsychology/Science Behind Ghosts/Science Behind Ghosts.canvas",
     "Philosophy/Philosphy.canvas",
-    "General Understanding/Polyphasic Sleep",
-    "~syncthing~Let's try one more time.md.tmp",
-    "~syncthing~Are We Syncing.md.tmp",
     "Untitled.canvas",
-    "journals/2023_08_05.md.crswap",
-    "pages/contents.md.crswap",
-    "logseq/custom.css",
-    "pages",
-    "logseq/config.edn.crswap",
-    "logseq/config.edn",
     "General Understanding/Mini Teasures.canvas",
     "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Your Brain on Porn.canvas",
     "Human Brain and Body/Books/The Brain by David Eagleman/Pasted image 20230701104530.png",
