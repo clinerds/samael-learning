@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Artificial Intelligence and Machine Learning/Artificial Intelligence and Machine Learning - Roadmap.md",
+                "file": "Information Technology/IRC-Servers.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Cyber",
+                "query": "tag:#ArtificialIntelligence",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Artificial Intelligence and Machine Learning/Artificial Intelligence and Machine Learning - Roadmap.md",
+                "file": "Information Technology/IRC-Servers.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Artificial Intelligence and Machine Learning/Artificial Intelligence and Machine Learning - Roadmap.md",
+                "file": "Information Technology/IRC-Servers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Artificial Intelligence and Machine Learning/Artificial Intelligence and Machine Learning - Roadmap.md"
+                "file": "Information Technology/IRC-Servers.md"
               }
             }
           }
@@ -152,6 +152,9 @@
   },
   "active": "86ddcea9ad53b7b6",
   "lastOpenFiles": [
+    "Information Technology/Jarvis/Publically Available Stuff.md",
+    "Information Technology/Darknet/How to Create a Darknet Site With Custom Domain.md",
+    "Information Technology/IRC-Servers.md",
     "Learning/Cyber Security and Penetration Testing/Cyber Security and Penetration Testing - Roadmap.md",
     "Learning/Artificial Intelligence and Machine Learning/Artificial Intelligence and Machine Learning - Roadmap.md",
     "Documentaries and Videos/The First 20 Hours - TedTalk/The First 20 hours - How to learn anything - Josh Kaufman.md",
@@ -188,9 +191,6 @@
     "Ancient Civilization and History/The Sumerian Epic/The Great Celestial Battle ~ The Sumerian Epic (Part 1).md",
     "General Understanding/The CIA Gateway Process/Altered states of consciousnes.md",
     "Mysteries and Parapsychology/Science Behind Ghosts/Mass Psychogenic Illness.md",
-    "Mysteries and Parapsychology/Science Behind Ghosts/Main Synopsis.md",
-    "Mysteries and Parapsychology/Science Behind Ghosts/Ghost Hunting - The Science of the Other Side.md",
-    "General Understanding/Frequencies/The Ancient Solfeggio Scale Explained.md",
     "Human Brain and Body/Books/The Brain by David Eagleman/Pasted image 20230710192736.png",
     "Human Brain and Body/Books/The Brain by David Eagleman/Untitled.canvas",
     "Mysteries and Parapsychology/Science Behind Ghosts/Science Behind Ghosts.canvas",
