@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Understanding/Mini Teasures.md",
+                "file": "General Understanding/The CIA Gateway Process/The CIA Gateway Process.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ArtificialIntelligence",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Understanding/Mini Teasures.md",
+                "file": "General Understanding/The CIA Gateway Process/The CIA Gateway Process.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Understanding/Mini Teasures.md",
+                "file": "General Understanding/The CIA Gateway Process/The CIA Gateway Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Understanding/Mini Teasures.md"
+                "file": "General Understanding/The CIA Gateway Process/The CIA Gateway Process.md"
               }
             }
           }
@@ -152,6 +152,11 @@
   },
   "active": "86ddcea9ad53b7b6",
   "lastOpenFiles": [
+    "General Understanding/The CIA Gateway Process/Altered states of consciousnes.md",
+    "General Understanding/The CIA Gateway Process/Hemisync.md",
+    "General Understanding/Spontaneous Human Combustion.md",
+    "General Understanding/Kardashev Scale/The Kardashev Scale of Civilization.md",
+    "General Understanding/Mini Teasures.canvas",
     "Time - Reality - Dimensions - Future/Liminal Spaces -The Reality In-between/Liminal Spaces.md",
     "Time - Reality - Dimensions - Future/Liminal Spaces -The Reality In-between",
     "General Understanding/Polyphasic Sleep/Peer Reviewed Research.md",
@@ -181,12 +186,9 @@
     "Documentaries and Videos/Your Brain on Porn/Your Brain on Porn.canvas",
     "Documentaries and Videos/Your Brain on Porn/Part 3 - Dopamine the molecule of Addiction.md",
     "Documentaries and Videos/Your Brain on Porn/Part 2 - The Reward Circuit.md",
-    "Documentaries and Videos/Consciousness and Perception - Unscholar/Understanding the Basics of Consciousness and Awareness.md",
-    "Documentaries and Videos/Your Brain on Porn/Part 1 - The Coolidge Effect.md",
     "Documentaries and Videos/Your Brain on Porn",
     "Documentaries and Videos/Consciousness and Perception - Unscholar",
     "Documentaries and Videos",
-    "Books/The Brain by David Eagleman/The Brain by David Eagleman - Summary.md",
     "Books/The Brain by David Eagleman/Untitled.canvas",
     "Books/The Brain by David Eagleman/Pasted image 20230710192736.png",
     "Books/The Brain by David Eagleman",
@@ -195,7 +197,6 @@
     "Mysteries and Parapsychology/Science Behind Ghosts/Science Behind Ghosts.canvas",
     "Philosophy/Philosphy.canvas",
     "Untitled.canvas",
-    "General Understanding/Mini Teasures.canvas",
     "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Your Brain on Porn.canvas",
     "Human Brain and Body/Books/The Brain by David Eagleman/Pasted image 20230701104530.png",
     "Human Brain and Body/Books/The Brain by David Eagleman/Pasted image 20230701104445.png",
