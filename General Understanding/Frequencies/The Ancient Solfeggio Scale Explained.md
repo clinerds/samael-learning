@@ -129,3 +129,9 @@ We also know certain frequencies within music have specific effects on the mind,
 It is no coincidence that the Benedictine monks of the 11th century tuned their chants to the Solfeggio scale. These were their prayers to a higher power, and they choose tones that resonated with their spiritual energy.
 
 The Solfeggio scale has the ability to influence and transform wellbeing. It can help reduce emotional and physical ills, and create a deeper spiritual connection with the universe. All you have to do is simply listen.
+
+[[The Fear Frequency - Sonic Weapons, Havana Syndrome]]
+
+
+https://www.researchgate.net/publication/333852911_Sound_Healing_using_Solfeggio_Frequencies
+

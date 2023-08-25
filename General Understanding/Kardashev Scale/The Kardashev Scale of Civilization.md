@@ -2,6 +2,11 @@
 
 Absolutely, let's explore each type of civilization on the Kardashev scale in even greater detail, delving into the implications, challenges, and speculative aspects of each level.
 
+The Kardashev scale (Russian: Шкала Кардашева, romanized: Shkala Kardasheva) is a method of measuring a civilization's level of technological advancement based on the amount of energy it is able to use. T
+
+he measure was proposed by Soviet astronomer Nikolai Kardashev in 1964 and came to bear his name. The scale is hypothetical, and regards energy consumption on a cosmic scale. Various extensions of the scale have since been proposed, including a wider range of power levels (types 0, IV to V) and the use of metrics other than pure power (e.g., computational growth or food consumption). Kardashev first outlined his scale in a paper presented at the 1964 Byurakan conference, a scientific meeting that reviewed the Soviet radio astronomy space listening program. 
+
+This paper, entitled "Передача информации внеземными цивилизациями" ("Transmission of Information by Extraterrestrial Civilizations"), proposes a classification of civilizations into three types, based on the postulate of exponential progression:
 # **Type 1 Civilization (Planetary Civilization) 🌍:**
 
 A Type 1 civilization's mastery over its planet signifies a profound shift in its technological capabilities and societal organization.

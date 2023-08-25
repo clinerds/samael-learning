@@ -3,21 +3,13 @@ The brain is an uncanny thing. It’s both profoundly natural and completely unu
 
 We typically consider it a cockpit constrained by our very own identity. In any case, as an individual who’s examined the brain – from old fashioned Freudians to the most exceptional neuroscientists – will let you know, it’s regularly the concealed hand of the psyche that is running the show.  
 
----
-
----
-
 That is not really a terrible thing. On the off chance that we needed to deliberately process each longing, activity, and signal, life would end up incomprehensible. Just drinking some espresso would be totally depleting.  
 
 Be that as it may, it raises a lot of fascinating inquiries. What truly makes us our identity? How would we settle on choices and achieve decisions about the idea of the real world? For what reason do individuals change so drastically after some time?  
 
 That is the place these outline parts come in. They do not just answer these inquiries; they give a wide-running voyage through the cerebrum that is as animating as it is provocative.  
 
----
-
 ## The consistently changing associations in your mind shape your identity.  
-
----
 
 Life might be capricious. In any case, there is one consistent – individuals change. In some cases, we improve and smooth with age, similar to a decent wine. Some of the time, similar to a once-tolerable vintage that swings to vinegar, we sharp and become unpalatable.  
 
@@ -28,10 +20,6 @@ Indeed, it’s about how the cerebrum changes after some time. From birth ahead,
 Take a two-year-old kid. Her mind has an indistinguishable number of cerebrum cells however twice from numerous neurotransmitters – associations which transmit data – like a grown-up. This is on the grounds that, as people age, they lose the synaptic associations that haven’t been strengthened by steady redundancy.  
 
 Consider language. It’s hard to mirror or recognize the hints of unknown dialects since you weren’t presented to them as a youngster.  
-
----
-
----
 
 This applies to identify all the more for the most part. The synaptic associations that make you are the aftereffect of all that you’ve at any point been presented to. At the end of the day, each individual you meet, the film you watch or book you read shapes your identity!  
 
@@ -67,10 +55,6 @@ He lost his sight at three years old. In his forties, he had a medical procedure
 
 That is on the grounds that his cerebrum hadn’t figured out how to see. It was so used to depending on different faculties that it couldn’t process all the new data. The loss of movement in his visual cortex as a tyke drove his cerebrum to overcompensate in different territories.  
 
----
-
----
-
 So our eyes don’t care for camcorders handing-off data to the mind. Undoubtedly, locate is really a joint effort between these two organs. That implies that your feeling of the truth is a result of the manner in which your mind translates data.  
 
 Consider synesthesia, a condition where tangible observations are stirred up with each other. Individuals who have it report encounters, for example, tasting words composed on a page and hearing music as shading.  
@@ -100,10 +84,6 @@ This was a requesting task for the creator since it was new. His mind used treme
 Austin’s cerebrum, then again, was very still. He’d performed comparative schedules so frequently that the structure of his mind had physically changed. Stacking containers never again expected him to connect with his cognizant cerebrum!  
 
 When you achieve a specific dimension of capability, the cognizant exertion really prompts botches. Baseball players, for instance, hit the ball without intentionally settling on a choice to do as such. That is similarly too on the grounds that the human mind isn’t quick enough to precisely check the speed of the approaching ball and choose when to swing the bat.  
-
----
-
----
 
 However, your subliminal makes major decisions notwithstanding when you’re not playing focused games. It’s similarly prone to be in charge when you’re settling on regular choices.  
 
@@ -141,10 +121,6 @@ The cerebrum doesn’t care for hanging tight for an envisioned future. Prompt p
 
 So how would you fight off enticement and play the long diversion? One path is to sign a “Ulysses Contract.”  
 
----
-
----
-
 As indicated by Greek legend, Ulysses was the chief of a ship that cruised past an island possessed by Sirens – hazardous animals whose delightful tunes entranced mariners, baiting them into shrouded rocks, whereupon their vessels would wreck. Ulysses had his group attach him to the ship’s pole (different mariners stuffed their ears with cotton) to keep him from directing the ship toward the Sirens, and he lived to tell the story.  
 
 What would you be able to gain from this model?  
@@ -167,10 +143,6 @@ In the wake of connecting the members to a gadget that estimates facial muscle d
 
 The outcome? The members who’d had Botox weren’t simply less facially portable themselves; they were additionally much more awful at translating the feelings of others! That is on the grounds that we read feelings by reflecting the feelings showed on others’ countenances.  
 
----
-
----
-
 Sympathy additionally shapes how we identify with individuals who have a place with an outgroup – that is, individuals who aren’t “like us” and are along these lines less meriting our help.  
 
 Take an examination did at the University of Leiden in the Netherlands wherein members appeared of vagrants. The members enrolled substantially less mind movement when demonstrated these pictures than they, for the most part, would when pondering or communicating with individuals who weren’t destitute. Put all the more unmistakably, they saw these vagrants and ladies as articles.  
@@ -190,10 +162,6 @@ Consider cochlear inserts – electronic gadgets utilized by individuals with he
 That, thusly, recommends that we may before long be equipped for transferring different sorts of data legitimately to the cerebrum. Envision getting the climate figure, traffic updates and message pop-ups inside your head!  
 
 At that point, there’s space investigation. The human body is dreadfully delicate to make due in space for exceptionally long. Be that as it may, what might occur in the event that we could carefully transfer our minds to an increasingly solid machine? The intergalactic boondocks would all of a sudden be tossed wide open.  
-
----
-
----
 
 Sometime in the not so distant future, we may most likely travel some light-years by closing the cerebrum down while the machine went through space and afterward “rebooting” it when the shuttle achieved its goal.  
 
