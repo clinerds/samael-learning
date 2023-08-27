@@ -11,12 +11,8 @@
             "id": "86ddcea9ad53b7b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentaries and Videos/How to Learn Faster - TedTalk/How to Learn Faster - TedTalk.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "3d_graph_view",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ScientificStudy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentaries and Videos/How to Learn Faster - TedTalk/How to Learn Faster - TedTalk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documentaries and Videos/How to Learn Faster - TedTalk/How to Learn Faster - TedTalk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Documentaries and Videos/How to Learn Faster - TedTalk/How to Learn Faster - TedTalk.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -150,44 +142,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "86ddcea9ad53b7b6",
+  "active": "4fd0290b710dcda0",
   "lastOpenFiles": [
+    "2023-08-27.md",
+    "Documentaries and Videos/Your Brain on Porn/Your Brain on Porn.canvas",
+    "Conspiracy Theories/Serpo_releases_with_commentary.pdf",
+    "Documentaries and Videos/Your Brain on Porn/Part 2 - The Reward Circuit.md",
+    "Documentaries and Videos/Your Brain on Porn/Part 3 - Dopamine the molecule of Addiction.md",
+    "General Understanding/Polyphasic Sleep/Peer Reviewed Research.md",
+    "Mysteries and Parapsychology/Science Behind Ghosts/Ghost Hunting - The Science of the Other Side.md",
+    "Learning/Artificial Intelligence and Machine Learning/What is Google Collab.md",
+    "Learning/Artificial Intelligence and Machine Learning/Artificial Intelligence and Machine Learning - Roadmap.md",
+    "General Understanding/What it Takes to Be An Expert/The 4 things it takes to be an expert.md",
+    "General Understanding/Spontaneous Human Combustion.md",
+    "Learning/To-Learn.md",
+    "Documentaries and Videos/Your Brain on Porn/Part 1 - The Coolidge Effect.md",
     "Documentaries and Videos/The First 20 Hours - TedTalk/The First 20 hours - How to learn anything - Josh Kaufman.md",
     "Documentaries and Videos/How to Learn Faster - TedTalk/How to Learn Faster - TedTalk.md",
     "Documentaries and Videos/How to Learn Faster - TedTalk",
     "Conspiracy Theories/Project Serpo AKA Project Crystal Knight.md",
-    "Conspiracy Theories/Serpo_releases_with_commentary.pdf",
     "Conspiracy Theories/Project Stargate.md",
     "Information Technology/IRC-Servers.md",
     "Information Technology/Jarvis/Publically Available Stuff.md",
     "General Understanding/Mini Teasures.md",
-    "General Understanding/Spontaneous Human Combustion.md",
     "General Understanding/The CIA Gateway Process/Altered states of consciousnes.md",
     "General Understanding/The CIA Gateway Process/Hemisync.md",
     "General Understanding/The CIA Gateway Process/The CIA Gateway Process.md",
     "Philosophy/How to Become an Übermensch — Nietzsche's Three Metamorphoses.md",
     "Time - Reality - Dimensions - Future/Liminal Spaces -The Reality In-between/Liminal Spaces.md",
     "Time - Reality - Dimensions - Future/Time Slips/Time is Not Linear.md",
-    "Mysteries and Parapsychology/Science Behind Ghosts/Ghost Hunting - The Science of the Other Side.md",
     "Mysteries and Parapsychology/Science Behind Ghosts/Blindfold Tests.md",
-    "Documentaries and Videos/Consciousness and Perception - Unscholar/Consciousness and Perception.md",
-    "General Understanding/Frequencies/The Fear Frequency - Sonic Weapons, Havana Syndrome.md",
-    "General Understanding/Frequencies/The Scientific Study - Sol.md",
-    "General Understanding/Frequencies/The Ancient Solfeggio Scale Explained.md",
-    "General Understanding/Kardashev Scale/The Kardashev Scale of Civilization.md",
-    "Books/Livewired by David Eagleman/Livewired by David Eagleman - Summary.md",
-    "Ancient Civilization and History/The Silurian Hypothesis/The Silurian Hypothesis.md",
-    "Time - Reality - Dimensions - Future/Time Slips/The Case of Paul Amadeus Dienach - Spend a Year in 3906 AD.md",
     "General Understanding/Mini Teasures.canvas",
     "Time - Reality - Dimensions - Future/Liminal Spaces -The Reality In-between",
-    "General Understanding/Polyphasic Sleep/Peer Reviewed Research.md",
-    "General Understanding/Polyphasic Sleep/How to Adapt.md",
     "Time - Reality - Dimensions - Future/Time Slips",
     "Time - Reality - Dimensions - Future",
     "Documentaries and Videos/The First 20 Hours - TedTalk",
     "Books/The First 20 Hours by Josh Kaufman",
     "Human Brain and Body",
-    "Documentaries and Videos/Your Brain on Porn/Your Brain on Porn.canvas",
     "Documentaries and Videos/Your Brain on Porn",
     "Documentaries and Videos/Consciousness and Perception - Unscholar",
     "Books/The Brain by David Eagleman/Untitled.canvas",

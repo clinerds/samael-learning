@@ -106,3 +106,34 @@ Certainly! Here are some updated learning resources for each of the topics you w
 - Interactive Exercises: HackerRank's Machine Learning Domain
 - Book: "Machine Learning Yearning" by Andrew Ng (for deepening your understanding)
 
+
+# Live Resources
+https://www.coursera.org/learn/machine-learning#modules
+https://www.kaggle.com/learn/intro-to-machine-learning
+https://developers.google.com/machine-learning/crash-course
+https://www.tensorflow.org/tutorials
+Starts with basic text and image classification and then move to neural network, generative AI and sentimental analysis.
+You have to learn math and lots of math so start from here
+https://machinelearningmastery.com/start-here/
+https://www.youtube.com/playlist?list=PL8erL0pXF3JYm7VaTdKDaWc8Q3FuP8Sa7
+If you need book on mathmatics for machine learning this one is quite good and comprehensive
+https://mml-book.github.io/
+and for a gentle knowledge on statistics and probality this one is great
+https://www.probabilitycourse.com/chapter1/1_1_0_what_is_probability.php
+A great book on statistics
+https://www.statisticsdonewrong.com/
+Some things you should know about machine learning
+https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf
+https://courses.cs.duke.edu/spring20/compsci527/papers/Domingos.pdf
+github repo of a book called hands on machine learning (one of the best book on machine learning)
+Need help? go here
+https://datascience.stackexchange.com/
+https://stats.stackexchange.com/?tags=machine-learning
+PyTorch tutorial
+https://pytorch.org/tutorials/
+SciKit Tutorial
+https://scikit-learn.org/stable/tutorial/index.html
+
+# Other Helpfull Resources
+Google generative AI course
+https://www.cloudskillsboost.google/course_templates/536
