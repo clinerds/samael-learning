@@ -108,7 +108,6 @@ Certainly! Here are some updated learning resources for each of the topics you w
 
 
 # Live Resources
-https://www.coursera.org/learn/machine-learning#modules
 https://www.kaggle.com/learn/intro-to-machine-learning
 https://developers.google.com/machine-learning/crash-course
 https://www.tensorflow.org/tutorials

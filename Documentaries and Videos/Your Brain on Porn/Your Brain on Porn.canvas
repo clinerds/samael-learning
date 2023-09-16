@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"type":"file","file":"Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Part 1 - The Coolidge Effect.md","id":"3d4934ff11397a87","x":-520,"y":101,"width":400,"height":400},
 		{"type":"file","file":"Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Part 3 - Dopamine the molecule of Addiction.md","id":"f383fcb28f48be3b","x":680,"y":101,"width":400,"height":400},
-		{"type":"file","file":"Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Part 2 - The Reward Circuit.md","id":"83e9733b29df1e2a","x":80,"y":-299,"width":400,"height":400}
+		{"type":"file","file":"Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Part 2 - The Reward Circuit.md","id":"83e9733b29df1e2a","x":80,"y":-299,"width":400,"height":400},
+		{"type":"file","file":"Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Part 1 - The Coolidge Effect.md","id":"3d4934ff11397a87","x":-520,"y":101,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"2abfeca39527c53e","fromNode":"3d4934ff11397a87","fromSide":"right","toNode":"83e9733b29df1e2a","toSide":"left"},
