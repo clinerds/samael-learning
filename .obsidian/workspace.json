@@ -11,12 +11,8 @@
             "id": "9fb9ae36863c1f8f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/1984 By George Orwell/Thought Crime.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
