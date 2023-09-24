@@ -12,3 +12,6 @@ In this video titled "How to Become an Übermensch — Nietzsche's Three Metamor
 - The Significance of the Developmental Pattern - Nietzsche's three metamorphoses represent the developmental path of prophets and sages, attaining self-transcendence and cultural transcendence. It is a powerful journey of self-discovery, transformation, and the birth of new, meaningful values.
 
 The speaker also hints at potential connections between Nietzsche's map and Jung's individuation process and the chakra system. However, the video concludes by emphasizing that this developmental pattern is not one that most humans will go through; rather, it represents the development of spirit and the attainment of extraordinary levels of self-transcendence and cultural impact.
+
+
+[[Stoicism]]

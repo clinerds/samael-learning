@@ -29,4 +29,4 @@ Rational Emotive Behavioral Therapy (REBT) and Logotherapy are two psychological
 - 💡 Stoicism helps us lead happier and more fulfilling lives by shifting our definition of value and controlling our reactions to external events.
 - 💡 Stoicism provides guidance for navigating life's storms, finding peace even in the face of inevitable endings.
 
-- [[Cynicism]]
+- [[The Noble Lie By Plato]]
