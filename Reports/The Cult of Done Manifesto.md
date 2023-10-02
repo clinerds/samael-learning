@@ -1,8 +1,7 @@
 #Reports #TheCultOfDoneManifesto #Productivity 
 
-*Prepared by: Samael
-
-*Date: 16-09-2023
+*Research and Dataset by: MR. Moon And Mohd Talib AKA Samael
+Date: 16-09-2023
 
 **Executive Summary:**
 
@@ -76,3 +75,6 @@ The Cult of Done Manifesto outlines three distinct stages of being, which serve 
    - **Challenge:** The challenge in this stage is to resist the temptation to keep tinkering or second-guessing your work. Embracing imperfections and considering it "done" is a fundamental principle of the manifesto. It emphasizes that completed work is more valuable than endlessly seeking perfection.
 
 The Cult of Done Manifesto encourages individuals to move through these three stages efficiently and avoid getting stuck in the first two. The manifesto advocates for the completion of tasks, even if they are not perfect, as a means of fostering productivity, creativity, and personal growth. By embracing these stages and their associated challenges, individuals can cultivate a mindset that prioritizes action and progress over perfectionism and procrastination.
+
+
+[[The Economy of Attention - Understanding Its Significance in the Digital Age]]

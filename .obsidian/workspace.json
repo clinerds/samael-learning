@@ -11,8 +11,12 @@
             "id": "9fb9ae36863c1f8f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Documentaries and Videos/Consciousness and Perception - Unscholar/Understanding the Basics of Consciousness and Awareness InfoGraphic.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#DopamineFried",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/1984 By George Orwell/Thought Crime.md",
+                "file": "Documentaries and Videos/Consciousness and Perception - Unscholar/Understanding the Basics of Consciousness and Awareness InfoGraphic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/1984 By George Orwell/Thought Crime.md",
+                "file": "Documentaries and Videos/Consciousness and Perception - Unscholar/Understanding the Basics of Consciousness and Awareness InfoGraphic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/1984 By George Orwell/Thought Crime.md"
+                "file": "Documentaries and Videos/Consciousness and Perception - Unscholar/Understanding the Basics of Consciousness and Awareness InfoGraphic.md"
               }
             }
           }
@@ -148,24 +152,32 @@
   },
   "active": "9fb9ae36863c1f8f",
   "lastOpenFiles": [
+    "Documentaries and Videos/Consciousness and Perception - Unscholar/Consciousness and Perception.md",
+    "Mysteries and Parapsychology/Science Behind Ghosts/Mass Psychogenic Illness.md",
+    "Mysteries and Parapsychology/Science Behind Ghosts/Main Synopsis.md",
+    "Mysteries and Parapsychology/Science Behind Ghosts/Ideomotor-Effect.md",
+    "Mysteries and Parapsychology/Science Behind Ghosts/Ghost Hunting - The Science of the Other Side.md",
+    "Mysteries and Parapsychology/Science Behind Ghosts/Blindfold Tests.md",
+    "Other Concepts/Habitus -  Pierre Bourdieu.md",
+    "Philosophy/Stoicism.md",
+    "Philosophy/How to Become an Übermensch — Nietzsche's Three Metamorphoses.md",
+    "Philosophy/Cynicism.md",
+    "Time - Reality - Dimensions - Future/THE HUMAN FUTURE - A Case for Optimism By Melodysheep.md",
+    "Time - Reality - Dimensions - Future/Time Slips/The Case of Paul Amadeus Dienach - Spend a Year in 3906 AD.md",
+    "Reports/The Cult of Done Manifesto.md",
+    "Reports/The Economy of Attention - Understanding Its Significance in the Digital Age.md",
+    "Reports/The Many-Worlds Hypothesis - A Multiverse Perspective.md",
     "Books/1984 By George Orwell/Habitus - Pierre Bourdieu.md",
     "Books/1984 By George Orwell/Thought Crime.md",
-    "Other Concepts/Habitus -  Pierre Bourdieu.md",
     "Books/1984 By George Orwell/The Noble Lie - Plato.md",
     "Philosophy/The Noble Lie By Plato.md",
     "Books/1984 By George Orwell",
     "Other Concepts",
-    "Philosophy/Stoicism.md",
-    "Philosophy/How to Become an Übermensch — Nietzsche's Three Metamorphoses.md",
-    "Philosophy/Cynicism.md",
     "Philosophy/Philosphy.canvas",
-    "Reports/The Cult of Done Manifesto.md",
     "Books/Livewired by David Eagleman/Motor Babling.md",
     "Books/Livewired by David Eagleman/Brain Cortex.png",
     "Brain Cortex.png",
     "Brain Cortex.png.crdownload",
-    "Reports/The Many-Worlds Hypothesis - A Multiverse Perspective.md",
-    "Time - Reality - Dimensions - Future/THE HUMAN FUTURE - A Case for Optimism By Melodysheep.md",
     "Reports",
     "Time - Reality - Dimensions - Future/Untitled.md",
     "General Understanding/Spontaneous Human Combustion.md",
@@ -174,15 +186,7 @@
     "Project SAAS",
     "General Understanding/The Devil's Violinist - Niccolo` Paganini.md",
     "Ancient Civilization and History/The Silurian Hypothesis/The Silurian Hypothesis.md",
-    "Documentaries and Videos/Consciousness and Perception - Unscholar/Consciousness and Perception.md",
     "Documentaries and Videos/Your Brain on Porn/Your Brain on Porn.canvas",
-    "Journal.md",
-    "Learning/Artificial Intelligence and Machine Learning/What is Google Collab.md",
-    "General Understanding/Frequencies/The Ancient Solfeggio Scale Explained.md",
-    "Documentaries and Videos/How to Learn Faster - TedTalk/How to Learn Faster - TedTalk.md",
-    "Books/The Brain by David Eagleman/The Brain by David Eagleman - Summary.md",
-    "Books/Livewired by David Eagleman/Livewired by David Eagleman - Summary.md",
-    "Documentaries and Videos/Your Brain on Porn/Part 2 - The Reward Circuit.md",
     "Conspiracy Theories/Serpo_releases_with_commentary.pdf",
     "Documentaries and Videos/How to Learn Faster - TedTalk",
     "General Understanding/Mini Teasures.canvas",

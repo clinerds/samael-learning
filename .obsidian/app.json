@@ -2,6 +2,7 @@
   "attachmentFolderPath": "Human Brain and Body/Books/The Brain by David Eagleman",
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
+    "includeName": true,
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",

@@ -1,4 +1,7 @@
 #Reports #ParallelWorlds #Hypothesis #ScientificStudy 
+
+*Research and Dataset by: Mohd Talib AKA Samael
+Date: 16-9-2023
 ## Executive Summary
 
 The Many-Worlds Hypothesis (MWH) is a speculative interpretation of quantum mechanics that suggests the existence of multiple parallel universes, also known as the multiverse. Proposed by physicist Hugh Everett III in the late 1950s, MWH challenges the traditional Copenhagen interpretation of quantum mechanics, offering an alternative framework to understand the behavior of quantum systems. This report provides an overview of the Many-Worlds Hypothesis, its historical development, implications, criticisms, and current status within the realm of theoretical physics.

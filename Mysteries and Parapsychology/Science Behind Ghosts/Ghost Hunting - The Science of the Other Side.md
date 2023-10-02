@@ -99,3 +99,6 @@ It's important to note that the effectiveness of these tools and the interpretat
 **ITCs (Instrumental Transcommunication):** ITCs involve using electronic devices like radios or computers to attempt communication with spirits or other entities, aiming to receive messages or images through manipulated signals.
 
 In both cases, interpretations vary widely, with some considering them as evidence of paranormal activity while others attribute them to natural or technological factors.
+
+
+[[Ideomotor-Effect]]
