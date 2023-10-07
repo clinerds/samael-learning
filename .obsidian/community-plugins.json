@@ -6,5 +6,6 @@
   "templater-obsidian",
   "obsidian-style-settings",
   "obsidian-banners",
-  "homepage"
+  "homepage",
+  "obsidian-linter"
 ]
