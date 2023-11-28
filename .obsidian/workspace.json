@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Artificial Intelligence and Machine Learning/Artificial Intelligence and Machine Learning - Roadmap.md",
+                "file": "Learning/Artificial Intelligence and Machine Learning/LangChain Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Artificial Intelligence and Machine Learning/Artificial Intelligence and Machine Learning - Roadmap.md",
+                "file": "Learning/Artificial Intelligence and Machine Learning/LangChain Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Artificial Intelligence and Machine Learning/Artificial Intelligence and Machine Learning - Roadmap.md",
+                "file": "Learning/Artificial Intelligence and Machine Learning/LangChain Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Artificial Intelligence and Machine Learning/Artificial Intelligence and Machine Learning - Roadmap.md"
+                "file": "Learning/Artificial Intelligence and Machine Learning/LangChain Learning.md"
               }
             }
           }
@@ -152,6 +152,9 @@
   },
   "active": "b45292c0e2b403de",
   "lastOpenFiles": [
+    "Pasted image 20231128221219.png",
+    "Pasted image 20231128221158.png",
+    "Learning/Artificial Intelligence and Machine Learning/LangChain Learning.md",
     "Learning/To-Learn.md",
     "Project SAAS/IDEAS.md",
     "Journal.md",
@@ -181,8 +184,6 @@
     "Time - Reality - Dimensions - Future/THE HUMAN FUTURE - A Case for Optimism By Melodysheep.md",
     "Time - Reality - Dimensions - Future/Time Slips/The Case of Paul Amadeus Dienach - Spend a Year in 3906 AD.md",
     "Reports/The Cult of Done Manifesto.md",
-    "Reports/The Economy of Attention - Understanding Its Significance in the Digital Age.md",
-    "Reports/The Many-Worlds Hypothesis - A Multiverse Perspective.md",
     "Books/1984 By George Orwell",
     "Other Concepts",
     "Philosophy/Philosphy.canvas",
@@ -205,7 +206,6 @@
     "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Your Brain on Porn.canvas",
     "Human Brain and Body/Books/The Brain by David Eagleman/Pasted image 20230701104530.png",
     "Human Brain and Body/Books/The Brain by David Eagleman/Pasted image 20230701104445.png",
-    "brain-sides-concept-illustration_114360-13064.jpg",
     "Untitled 1.canvas"
   ]
 }
