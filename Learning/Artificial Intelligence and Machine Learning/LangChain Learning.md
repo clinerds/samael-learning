@@ -50,3 +50,97 @@ Citations:
 ![[Pasted image 20231128221219.png]]
 
 ![[Pasted image 20231128221158.png]]
+
+A workin code that is representing a fraction bit of langchain and opensource llm via huggingface integration
+
+```python
+# from langchain import HuggingFaceHub, LLMChain
+
+# from dotenv import load_dotenv
+
+# from langchain.prompts import PromptTemplate
+
+  
+
+# load_dotenv()
+
+  
+
+# hub_llm = HuggingFaceHub(repo_id="mrm8488/t5-base-finetuned-wikiSQL")
+
+  
+  
+
+# prompt= PromptTemplate(
+
+#     input_variables=["question"],
+
+#     template = "Transalte English to SQL: {question}"
+
+# )
+
+  
+
+# hub_chain =  LLMChain(prompt=prompt, llm=hub_llm, verbose=True)
+
+  
+
+# print(hub_chain.run("what is the average age of respondants using a mobile device?"))
+
+  
+  
+  
+
+# The above commented code is working perfectly with translating english to sql model i am grabbing huggin face key from .env and then loading it with llm chain
+
+  
+  
+
+from langchain import HuggingFaceHub, LLMChain
+
+from dotenv import load_dotenv
+
+from langchain.prompts import PromptTemplate
+
+  
+
+load_dotenv()
+
+  
+
+hub_llm = HuggingFaceHub(repo_id="databricks/dolly-v2-3b", model_kwargs={"temperature": 0, "max_length": 500})
+
+  
+  
+
+prompt= PromptTemplate(
+
+    input_variables=["question"],
+
+    template = "{question}"
+
+)
+
+  
+
+hub_chain =  LLMChain(prompt=prompt, llm=hub_llm, verbose=True)
+
+  
+
+print(hub_chain.run("who was Abraham Lincoln?"))
+```
+
+```
+OUTPUT
+
+> Entering new LLMChain chain...
+Prompt after formatting:
+who was Abraham Lincoln?
+
+> Finished chain.
+
+
+A:
+
+Abraham Lincoln was a president of the United States.
+```

@@ -33,3 +33,5 @@ In her TEDx talk titled "Brain Hack 6 secrets to learning faster, backed by neur
 7. **Mistakes**: Mistakes are valuable for learning. Making mistakes triggers the brain to release neuromodulators that increase attention and focus. This heightened state of attention aids in learning and improving skills. Embracing mistakes and turning learning into a game can enhance the learning process. 
 
 These six critical ingredients—attention, alertness, sleep, repetition, breaks, and mistakes—work together to help you learn faster and more effectively. By understanding and incorporating these aspects, you can optimize your learning process.
+
+

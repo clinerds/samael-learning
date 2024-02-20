@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fca20d2687535914",
+        "id": "44f12ffedc15b5ae",
         "type": "tabs",
         "children": [
           {
-            "id": "b45292c0e2b403de",
+            "id": "3917ffb5f49c1238",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Artificial Intelligence and Machine Learning/LangChain Learning.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Coma",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Artificial Intelligence and Machine Learning/LangChain Learning.md",
+                "file": "Ancient Civilization and History/The Annunaki Series - Unscholar/The Annunaki Ancient Mesopotamian deities associated with creation and human civilization - The Annunaki Series Part 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Artificial Intelligence and Machine Learning/LangChain Learning.md",
+                "file": "Ancient Civilization and History/The Annunaki Series - Unscholar/The Annunaki Ancient Mesopotamian deities associated with creation and human civilization - The Annunaki Series Part 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Artificial Intelligence and Machine Learning/LangChain Learning.md"
+                "file": "Ancient Civilization and History/The Annunaki Series - Unscholar/The Annunaki Ancient Mesopotamian deities associated with creation and human civilization - The Annunaki Series Part 1.md"
               }
             }
           }
@@ -150,40 +146,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b45292c0e2b403de",
+  "active": "3917ffb5f49c1238",
   "lastOpenFiles": [
+    "Learning/Artificial Intelligence and Machine Learning/Artificial Intelligence and Machine Learning - Roadmap.md",
+    "Books/Sapiens by Yuval Noah Harari/sapiens3-neanderthals-child.jpg",
+    "Books/The Brain by David Eagleman/Untitled.canvas",
+    "Documentaries and Videos/Your Brain on Porn/Your Brain on Porn.canvas",
+    "Documentaries and Videos/How to Learn Faster - TedTalk/How to Learn Faster - TedTalk.md",
+    "Books/The Brain by David Eagleman/The Brain by David Eagleman - Summary.md",
+    "Books/The Brain by David Eagleman/Pasted image 20230710192736.png",
+    "Philosophy/The Noble Lie By Plato.md",
+    "Books/The Brain by David Eagleman/Who Am I.md",
+    "Journal.md",
     "Pasted image 20231128221219.png",
     "Pasted image 20231128221158.png",
-    "Learning/Artificial Intelligence and Machine Learning/LangChain Learning.md",
+    "Time - Reality - Dimensions - Future/Time Slips/Time is Not Linear.md",
+    "Time - Reality - Dimensions - Future/Time Slips/The Case of Paul Amadeus Dienach - Spend a Year in 3906 AD.md",
+    "Time - Reality - Dimensions - Future/Liminal Spaces -The Reality In-between/Liminal Spaces.md",
     "Learning/To-Learn.md",
+    "Books/The First 20 Hours by Josh Kaufman/The First 20 Hours by Josh Kaufman - Summary.md",
+    "Reports/The Economy of Attention - Understanding Its Significance in the Digital Age.md",
+    "Reports/The Cult of Done Manifesto.md",
     "Project SAAS/IDEAS.md",
-    "Journal.md",
-    "Learning/Artificial Intelligence and Machine Learning/Artificial Intelligence and Machine Learning - Roadmap.md",
     "Books to Read.md",
-    "Learning/Cyber Security and Penetration Testing/Cyber Security and Penetration Testing - Roadmap.md",
+    "General Understanding/The Devil's Violinist - Niccolo` Paganini.md",
+    "Information Technology/Darknet/How to Create a Darknet Site With Custom Domain.md",
+    "Ancient Civilization and History/The Annunaki Series - Unscholar/Enki and Enlil - Two prominent Annunaki gods, associated with wisdom and kingship respectively - The Annunaki Series Part 3.md",
+    "Reports/The Many-Worlds Hypothesis - A Multiverse Perspective.md",
+    "Philosophy/How to Become an Übermensch — Nietzsche's Three Metamorphoses.md",
+    "Philosophy/Cynicism.md",
+    "Books/1984 By George Orwell/The Noble Lie - Plato.md",
+    "Books/1984 By George Orwell/Habitus - Pierre Bourdieu.md",
     "Books/Sapiens by Yuval Noah Harari/Chapter 1 - An Animal of No Significance.md",
-    "General Understanding/Frequencies/The Fear Frequency - Sonic Weapons, Havana Syndrome.md",
-    "General Understanding/Frequencies/The Ancient Solfeggio Scale Explained.md",
-    "Books/Sapiens by Yuval Noah Harari/sapiens3-neanderthals-child.jpg",
+    "Documentaries and Videos/Consciousness and Perception - Unscholar/Consciousness and Perception.md",
     "Books/Sapiens by Yuval Noah Harari/sapiens2-conquers-the-globe.jpg",
     "Books/Sapiens by Yuval Noah Harari/sapiens1.jpg",
-    "Philosophy/How to Become an Übermensch — Nietzsche's Three Metamorphoses.md",
     "Books/Sapiens by Yuval Noah Harari",
-    "General Understanding/Life After Death/Characteristics Of a Near Death Experience.md",
-    "Books/Why We Sleep by Mathew Walker/Chapter 11 - Dream Creativity and Dream Control.md",
     "Books/Why We Sleep by Mathew Walker",
-    "Documentaries and Videos/Consciousness and Perception - Unscholar/Consciousness and Perception.md",
-    "Mysteries and Parapsychology/Science Behind Ghosts/Mass Psychogenic Illness.md",
-    "Mysteries and Parapsychology/Science Behind Ghosts/Main Synopsis.md",
-    "Mysteries and Parapsychology/Science Behind Ghosts/Ideomotor-Effect.md",
-    "Mysteries and Parapsychology/Science Behind Ghosts/Ghost Hunting - The Science of the Other Side.md",
-    "Mysteries and Parapsychology/Science Behind Ghosts/Blindfold Tests.md",
-    "Other Concepts/Habitus -  Pierre Bourdieu.md",
-    "Philosophy/Stoicism.md",
-    "Philosophy/Cynicism.md",
-    "Time - Reality - Dimensions - Future/THE HUMAN FUTURE - A Case for Optimism By Melodysheep.md",
-    "Time - Reality - Dimensions - Future/Time Slips/The Case of Paul Amadeus Dienach - Spend a Year in 3906 AD.md",
-    "Reports/The Cult of Done Manifesto.md",
     "Books/1984 By George Orwell",
     "Other Concepts",
     "Philosophy/Philosphy.canvas",
@@ -192,20 +191,16 @@
     "Brain Cortex.png.crdownload",
     "Reports",
     "Project SAAS",
-    "Documentaries and Videos/Your Brain on Porn/Your Brain on Porn.canvas",
     "Conspiracy Theories/Serpo_releases_with_commentary.pdf",
     "Documentaries and Videos/How to Learn Faster - TedTalk",
     "General Understanding/Mini Teasures.canvas",
     "Time - Reality - Dimensions - Future/Liminal Spaces -The Reality In-between",
-    "Books/The Brain by David Eagleman/Untitled.canvas",
-    "Books/The Brain by David Eagleman/Pasted image 20230710192736.png",
     "Human Brain and Body/Books/The Brain by David Eagleman/Pasted image 20230710192736.png",
     "Human Brain and Body/Books/The Brain by David Eagleman/Untitled.canvas",
     "Mysteries and Parapsychology/Science Behind Ghosts/Science Behind Ghosts.canvas",
     "Untitled.canvas",
     "Human Brain and Body/Documentaries and Videos/Your Brain on Porn/Your Brain on Porn.canvas",
     "Human Brain and Body/Books/The Brain by David Eagleman/Pasted image 20230701104530.png",
-    "Human Brain and Body/Books/The Brain by David Eagleman/Pasted image 20230701104445.png",
     "Untitled 1.canvas"
   ]
 }
