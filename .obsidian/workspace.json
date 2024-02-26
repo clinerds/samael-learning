@@ -8,14 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3917ffb5f49c1238",
+            "id": "38966bebe3400fa1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Learning/Artificial Intelligence and Machine Learning/21st Feb 2024 - Resources & Exploration.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20231128221219.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Artificial Intelligence and Machine Learning/21st Feb 2024 - Resources & Exploration.md",
+                "file": "Pasted image 20231128221219.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Artificial Intelligence and Machine Learning/21st Feb 2024 - Resources & Exploration.md",
+                "file": "Pasted image 20231128221219.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Artificial Intelligence and Machine Learning/21st Feb 2024 - Resources & Exploration.md"
+                "file": "Pasted image 20231128221219.png"
               }
             }
           }
@@ -150,8 +148,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3917ffb5f49c1238",
+  "active": "38966bebe3400fa1",
   "lastOpenFiles": [
+    "Journal.md",
+    "Pasted image 20231128221219.png",
+    "Random Thoughts.md",
+    "Books to Read.md",
+    "Time - Reality - Dimensions - Future/Random Thoughts.md",
+    "Pasted image 20231128221158.png",
     "Learning/Artificial Intelligence and Machine Learning/Artificial Intelligence and Machine Learning - Roadmap.md",
     "Learning/Artificial Intelligence and Machine Learning/21st Feb 2024 - Resources & Exploration.md",
     "AI Models/Basic_AI_Model_CLAUDE.ipynb",
@@ -172,9 +176,6 @@
     "Books/The Brain by David Eagleman/Pasted image 20230710192736.png",
     "Philosophy/The Noble Lie By Plato.md",
     "Books/The Brain by David Eagleman/Who Am I.md",
-    "Journal.md",
-    "Pasted image 20231128221219.png",
-    "Pasted image 20231128221158.png",
     "Time - Reality - Dimensions - Future/Time Slips/Time is Not Linear.md",
     "Time - Reality - Dimensions - Future/Time Slips/The Case of Paul Amadeus Dienach - Spend a Year in 3906 AD.md",
     "Time - Reality - Dimensions - Future/Liminal Spaces -The Reality In-between/Liminal Spaces.md",
@@ -183,7 +184,6 @@
     "Reports/The Economy of Attention - Understanding Its Significance in the Digital Age.md",
     "Reports/The Cult of Done Manifesto.md",
     "Project SAAS/IDEAS.md",
-    "Books to Read.md",
     "General Understanding/The Devil's Violinist - Niccolo` Paganini.md",
     "Information Technology/Darknet/How to Create a Darknet Site With Custom Domain.md",
     "Ancient Civilization and History/The Annunaki Series - Unscholar/Enki and Enlil - Two prominent Annunaki gods, associated with wisdom and kingship respectively - The Annunaki Series Part 3.md",
@@ -191,9 +191,6 @@
     "Philosophy/How to Become an Übermensch — Nietzsche's Three Metamorphoses.md",
     "Philosophy/Cynicism.md",
     "Books/1984 By George Orwell/The Noble Lie - Plato.md",
-    "Books/1984 By George Orwell/Habitus - Pierre Bourdieu.md",
-    "Books/Sapiens by Yuval Noah Harari/Chapter 1 - An Animal of No Significance.md",
-    "Documentaries and Videos/Consciousness and Perception - Unscholar/Consciousness and Perception.md",
     "Books/Sapiens by Yuval Noah Harari/sapiens2-conquers-the-globe.jpg",
     "Books/Sapiens by Yuval Noah Harari/sapiens1.jpg",
     "Philosophy/Philosphy.canvas",
