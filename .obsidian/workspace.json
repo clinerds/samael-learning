@@ -11,9 +11,11 @@
             "id": "38966bebe3400fa1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20231128221219.png"
+                "file": "Learning/TryHackMeRooms/Fundamentals & Tooling/Introductory Networking.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20231128221219.png",
+                "file": "Learning/TryHackMeRooms/Fundamentals & Tooling/Introductory Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20231128221219.png",
+                "file": "Learning/TryHackMeRooms/Fundamentals & Tooling/Introductory Networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20231128221219.png"
+                "file": "Learning/TryHackMeRooms/Fundamentals & Tooling/Introductory Networking.md"
               }
             }
           }
@@ -150,6 +152,14 @@
   },
   "active": "38966bebe3400fa1",
   "lastOpenFiles": [
+    "Learning/TryHackMeRooms/Fundamentals & Tooling/Intro To Offensive Security.md",
+    "Learning/TryHackMeRooms/Fundamentals & Tooling/Introductory Networking.md",
+    "Learning/TryHackMeRooms/Easy/TryHackMe - RootMe.md",
+    "Learning/TryHackMeRooms/Fundamentals & Tooling/Principles of Security.md",
+    "Learning/TryHackMeRooms/Fundamentals & Tooling/Pentesting Fundamentals.md",
+    "Learning/TryHackMeRooms/Easy",
+    "Learning/TryHackMeRooms/Fundamentals & Tooling",
+    "Learning/TryHackMeRooms",
     "Journal.md",
     "Pasted image 20231128221219.png",
     "Random Thoughts.md",
@@ -165,9 +175,6 @@
     "AI Models",
     "New folder",
     "Basic_AI_Model_CLAUDE.ipynb",
-    "Unconfirmed 805448.crdownload",
-    "basic_ai_model_claude.py",
-    "Unconfirmed 936812.crdownload",
     "Books/Sapiens by Yuval Noah Harari/sapiens3-neanderthals-child.jpg",
     "Books/The Brain by David Eagleman/Untitled.canvas",
     "Documentaries and Videos/Your Brain on Porn/Your Brain on Porn.canvas",
@@ -186,11 +193,6 @@
     "Project SAAS/IDEAS.md",
     "General Understanding/The Devil's Violinist - Niccolo` Paganini.md",
     "Information Technology/Darknet/How to Create a Darknet Site With Custom Domain.md",
-    "Ancient Civilization and History/The Annunaki Series - Unscholar/Enki and Enlil - Two prominent Annunaki gods, associated with wisdom and kingship respectively - The Annunaki Series Part 3.md",
-    "Reports/The Many-Worlds Hypothesis - A Multiverse Perspective.md",
-    "Philosophy/How to Become an Übermensch — Nietzsche's Three Metamorphoses.md",
-    "Philosophy/Cynicism.md",
-    "Books/1984 By George Orwell/The Noble Lie - Plato.md",
     "Books/Sapiens by Yuval Noah Harari/sapiens2-conquers-the-globe.jpg",
     "Books/Sapiens by Yuval Noah Harari/sapiens1.jpg",
     "Philosophy/Philosphy.canvas",
