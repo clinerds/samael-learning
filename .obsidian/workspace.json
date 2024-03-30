@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "12dbc6d3d62a038e",
+        "id": "bd1e2c6d9bcb799b",
         "type": "tabs",
         "children": [
           {
-            "id": "ee0fba380f74cc2f",
+            "id": "0d42472018a3854f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "copilot-conversations/Chat-2024_03_30-14_09_20.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6878ded8de9c6f97",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "copilot-conversations/Chat-2024_03_30-14_09_20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "copilot-conversations/Chat-2024_03_30-14_09_20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,11 +124,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "copilot-conversations/Chat-2024_03_30-14_09_20.md"
+              }
             }
           },
           {
-            "id": "2ddfa9e989b623a5",
+            "id": "f59dfaa803f21000",
             "type": "leaf",
             "state": {
               "type": "copilot-chat-view",
@@ -135,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 736.5,
+    "width": 719.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -153,13 +160,20 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "ee0fba380f74cc2f",
+  "active": "0d42472018a3854f",
   "lastOpenFiles": [
+    "Documentaries and Videos/Beer Biceps/Brain Hacks For Money & Growth With Neurologist Dr. Sid Warrier - The Ranveer Show 147.md",
+    "copilot-conversations/Chat-2024_03_30-14_09_20.md",
+    "copilot-conversations",
+    "Time - Reality - Dimensions - Future/Liminal Spaces -The Reality In-between/Liminal Spaces.md",
+    "Reports/The Economy of Attention - Understanding Its Significance in the Digital Age.md",
+    "Pasted image 20231128221158.png",
+    "Random Thoughts.md",
+    "Ancient Civilization and History/The Annunaki Series - Unscholar/Enki and Enlil - Two prominent Annunaki gods, associated with wisdom and kingship respectively - The Annunaki Series Part 3.md",
     "Reports/The Many-Worlds Hypothesis - A Multiverse Perspective.md",
     "Philosophy/The Noble Lie By Plato.md",
     "Learning/TryHackMeRooms/Fundamentals & Tooling/Principles of Security.md",
     "General Understanding/How Musical Instrument Affect Brain.md",
-    "Random Thoughts.md",
     "Documentaries and Videos/Your Brain on Porn/Part 1 - The Coolidge Effect.md",
     "General Understanding/Serial Killers/The Zodiac Killer.md",
     "General Understanding/Kardashev Scale/The Kardashev Scale of Civilization.md",
@@ -171,17 +185,12 @@
     "Time - Reality - Dimensions - Future/THE HUMAN FUTURE - A Case for Optimism By Melodysheep.md",
     "Time - Reality - Dimensions - Future/Time Slips/Time is Not Linear.md",
     "Time - Reality - Dimensions - Future/Time Slips/The Case of Paul Amadeus Dienach - Spend a Year in 3906 AD.md",
-    "Time - Reality - Dimensions - Future/Liminal Spaces -The Reality In-between/Liminal Spaces.md",
-    "Reports/The Economy of Attention - Understanding Its Significance in the Digital Age.md",
     "Project SAAS/IDEAS.md",
     "Philosophy/How to Become an Übermensch — Nietzsche's Three Metamorphoses.md",
     "Philosophy/Cynicism.md",
     "Other Concepts/Habitus -  Pierre Bourdieu.md",
     "Mysteries and Parapsychology/Science Behind Ghosts/Science Behind Ghosts.canvas",
     "Mysteries and Parapsychology/Science Behind Ghosts/Mass Psychogenic Illness.md",
-    "Mysteries and Parapsychology/Science Behind Ghosts/Main Synopsis.md",
-    "Mysteries and Parapsychology/Science Behind Ghosts/Ideomotor-Effect.md",
-    "Mysteries and Parapsychology/Science Behind Ghosts/Ghost Hunting - The Science of the Other Side.md",
     "General Understanding/Mini Teasures.canvas",
     "Books/Livewired by David Eagleman/Brain Cortex.png",
     "Pasted image 20240328204639.png",
@@ -196,12 +205,10 @@
     "Learning/TryHackMeRooms/Fundamentals & Tooling",
     "Learning/TryHackMeRooms",
     "Pasted image 20231128221219.png",
-    "Pasted image 20231128221158.png",
     "AI Models/Basic_AI_Model_CLAUDE.ipynb",
     "AI Models/basic_ai_model.py",
     "AI Models/Basic_AI_Model.ipynb",
     "AI Models/basic_ai_model_claude.py",
-    "AI Models",
     "Books/Sapiens by Yuval Noah Harari/sapiens3-neanderthals-child.jpg",
     "Books/The Brain by David Eagleman/Untitled.canvas",
     "Documentaries and Videos/Your Brain on Porn/Your Brain on Porn.canvas",
