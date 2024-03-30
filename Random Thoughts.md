@@ -1,5 +1,3 @@
-# Random Thoughts
-
 
 >"Maybe we are here, maybe we are not. Maybe we are just taking a dump in the infinite amount of space. ~ David "  
   

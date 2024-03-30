@@ -40,3 +40,6 @@ Have you ever wondered about the mysteries of the human mind? How do we become a
 💡 In summary, understanding the basics of consciousness and awareness involves defining consciousness as the state of being aware, recognizing the significance of self-awareness in personal growth, and exploring the different levels of consciousness. By delving into these concepts, we gain insight into the complexities of the human mind and unlock the potential for personal transformation. So, embrace the power of consciousness and embark on a journey of self-discovery! 🌟
 
 [[Understanding the Basics of Consciousness and Awareness InfoGraphic]]
+
+[[The Brain by David Eagleman - Summary]]
+[[Livewired by David Eagleman - Summary]]

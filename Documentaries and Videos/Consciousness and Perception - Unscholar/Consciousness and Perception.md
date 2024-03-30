@@ -35,3 +35,6 @@ However, your perception of the environment may differ from someone else's. For 
 In conclusion, consciousness and perception are vital aspects of the human mind. They shape our understanding of the world, influence our thoughts and behaviors, and determine how we interact with our surroundings. Understanding how consciousness and perception work can help us develop self-awareness, challenge our biases, and enhance our overall cognitive abilities.
 
 [[Understanding the Basics of Consciousness and Awareness]]
+
+[[The Brain by David Eagleman - Summary]]
+[[Livewired by David Eagleman - Summary]]

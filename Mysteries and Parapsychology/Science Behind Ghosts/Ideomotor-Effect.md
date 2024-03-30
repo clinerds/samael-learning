@@ -12,3 +12,4 @@ So, it's not spirits or supernatural forces causing the planchette to move—it'
 In a nutshell, the ideomotor effect shows how our thoughts and beliefs can influence our physical actions without us consciously realizing it. It's a fascinating insight into the connection between our minds and bodies! 🧠💭💪
 
 [[Ghost Hunting - The Science of the Other Side]]
+[[Mini Teasures]]

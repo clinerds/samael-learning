@@ -56,6 +56,8 @@ The Project Serpo account, which claims to be a true interplanetary exchange pro
 
 17. **Hybrids:** The text mentions the concept of creating hybrid beings by combining genetic material from different species. In the context of Project Serpo, it's suggested that the evens might have been involved in creating hybrid entities using genetic material from humans and other species. Please let me know if you need further clarification on any of these points or if you have additional questions.
 
+[[Project Stargate]]
+
 # Resources
 [http://www.serpo.org/Serpo_releases_w...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUtWT3RxdWZfWG85MFVNS3VfNUt1elp4N1Jpd3xBQ3Jtc0tsTWtiZHZKUnpwdVZ1ZUxRSzAyN09VSS1vRENsSFNDTi02eEZRblZvSTBUWkxYMW5mVXdWN0tBeXQydHR5anBOaW1XVlhtcWVTVGNGOEpvWjFiRG5ZSzlqX0hnbkltYkczWjNTY1huYUxBVVMwWldMMA&q=http%3A%2F%2Fwww.serpo.org%2FSerpo_releases_with_commentary.pdf&v=50Y5r9HeR2w)
 [https://www.bibliotecapleyades.net/so...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkdMUjAtTENyYUtzVnpmSzdzZFh6b2pzdlRUd3xBQ3Jtc0ttUzNvLWM3ejkzLW9iWHdoZm9yS05ZS2QzVnRwYjhuYkNqR2xYSHZ6N3hFQWctU0R1VmtQMHNOQjVmLVhuOFliMU1nR3pKM3loOWQyeW91YkhFSmF4SGE0T25fMTZRN3IzV3VZLWM1T2ZmMGpkb0NMTQ&q=https%3A%2F%2Fwww.bibliotecapleyades.net%2Fsociopolitica%2Fsociopol_projectSERPO19.htm&v=50Y5r9HeR2w)

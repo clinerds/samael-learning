@@ -36,3 +36,6 @@ For example, consider trying to remember the following sequence of letters: "FBI
 Chunking is widely used in various learning and memory contexts, such as learning new vocabulary, memorizing sequences (like phone numbers or addresses), studying for exams, and even in everyday tasks like remembering a grocery list.
 
 Overall, chunking is a valuable memory strategy that takes advantage of our brain's natural tendency to process information in meaningful patterns, helping us overcome the limitations of working memory and improving our ability to remember and recall information more efficiently.
+
+[[How to Learn Faster - TedTalk]]
+[[The First 20 Hours by Josh Kaufman - Summary]]

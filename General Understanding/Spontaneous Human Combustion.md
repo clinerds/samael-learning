@@ -56,3 +56,4 @@ It's important to note that the wick effect is just one theory proposed to expla
 
 While the wick effect is intriguing and provides a potential explanation for a subset of SHC cases, the phenomenon as a whole remains controversial and not widely accepted within the scientific community. Most scientific investigations of supposed SHC cases have found that there are more conventional explanations for the fires, such as external ignition sources or other factors related to fire behavior.
 
+[[Mini Teasures]]

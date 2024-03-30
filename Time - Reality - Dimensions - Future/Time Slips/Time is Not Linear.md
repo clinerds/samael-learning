@@ -25,3 +25,5 @@ Now, let's talk about black holes! 🕳️ These super-duper powerful cosmic vac
 
 So, 🧐 while we usually think of time as a neat timeline, some scientists and thinkers propose that it's more like a wild adventure, with twists, turns, and surprises along the way. 🎢 Just remember, this idea is still being explored, and time's true nature is one of the great mysteries of the universe. ⭐️
 
+[[The Many-Worlds Hypothesis - A Multiverse Perspective]]
+[[The Case of Paul Amadeus Dienach - Spend a Year in 3906 AD]]

@@ -12,3 +12,5 @@ Motor babbling is a process involving the repeated performance of random motor c
     
 
 In summary, motor babbling is a fundamental concept in motor control and learning, playing a significant role in understanding and improving the coordination of physical actions and systems.
+
+[[Livewired by David Eagleman - Summary]]

@@ -17,3 +17,4 @@ In summary, the noble lie in Plato's philosophy is a fictional story or myth cre
 
 
 [[Cynicism]]
+[[Habitus - Pierre Bourdieu]]

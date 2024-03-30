@@ -25,3 +25,6 @@ Paganini ultimately died in Nice, France on May 27, 1840.
 His death only fanned the flames of his supposed pact with the Devil.  You see, shortly before his death, Paganini turned away a priest who had come to perform the [last rites](http://en.wikipedia.org/wiki/Last_rites). His refusal is reportedly because he felt he wasn’t about to die and the whole thing was premature, though of course the rumor-mill had other ideas for the reasoning behind his refusal. He died approximately a week after this without ever receiving last rites. This, combined with his long-rumored association with the Devil, resulted in the local church refusing to bury his body on consecrated ground, despite Paganini being a member of the [Order of the Golden Spur](http://en.wikipedia.org/wiki/Order_of_the_Golden_Spur), having been granted that honor by [Pope Leo XII](http://en.wikipedia.org/wiki/Pope_Leo_XII) in 1827.
 
 Whatever the rumors said, after four years, Pope Gregory XVI allowed his body to initially be transported to Genoa and it was ultimately laid to rest in La Villetta Cemetery in Parma, Italy, some 200 or so kilometers from his birth place of Genoa, where it remains to this day.
+
+
+[[Mini Teasures]]

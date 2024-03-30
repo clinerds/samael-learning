@@ -22,7 +22,7 @@ The CIA document titled "Analysis and Assessment of the Gateway Process" describ
 - ⚡ The body's energy field becomes homogenous with the surrounding environment, facilitating out-of-body experiences.
 - 👥 Resonating with the earth's electromagnetic sphere enables communication with other minds in a similar state.
 
-
+[[Altered states of consciousnes]]
 #### Articles
 
 https://www.vice.com/en/article/7k9qag/how-to-escape-the-confines-of-time-and-space-according-to-the-cia

@@ -35,3 +35,6 @@ In her TEDx talk titled "Brain Hack 6 secrets to learning faster, backed by neur
 These six critical ingredients—attention, alertness, sleep, repetition, breaks, and mistakes—work together to help you learn faster and more effectively. By understanding and incorporating these aspects, you can optimize your learning process.
 
 
+
+[[The First 20 Hours by Josh Kaufman - Summary]]
+

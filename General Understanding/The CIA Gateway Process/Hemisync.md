@@ -20,3 +20,5 @@ The presentation demonstrated that EEG changes did not occur when the standard e
 This suggests that the basis for the entrainment effects is electromagnetic rather than acoustical.
 
 Replicated, double-blind, randomized trials on anesthetized patients have found Hemi-Sync effective as a partial replacement for fentanyl during surgery
+
+[[The CIA Gateway Process]]

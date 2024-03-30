@@ -15,6 +15,8 @@ The CIA's Project Stargate involved using psychics for remote viewing to gain in
 - 💰 Funding and Priorities The government's financial allocation for various studies raises questions about the significance of ESP research.
 - 🌟 Ongoing Interest Although Project Stargate ended, there remains ongoing support for studying the potential military applications of psychic abilities.
 
+[[Project Serpo AKA Project Crystal Knight]]
+[[The Hollow Moon]]
 
 (Note The bullet points provide a comprehensive summary of the content, with each highlight covering essential aspects of the text.)
 

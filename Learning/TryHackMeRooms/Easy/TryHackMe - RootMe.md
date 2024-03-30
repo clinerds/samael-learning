@@ -1,4 +1,4 @@
-#CTF #TryHackMe 
+#CTF #TryHackMe #Easy #Linux 
 
 The skills to be tested and needed to solve this room are: **nmap**, **GoBuster**, **privilege escalation**, **SUID**, **find**, **webshell**, and **gtfobins**.
 

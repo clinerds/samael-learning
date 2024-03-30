@@ -31,3 +31,5 @@ A: According to the critical period hypothesis, children learn languages more ea
 #### Q: What are some cognitive benefits of being multilingual, and how do they impact the brain's health?
 
 A: Being multilingual provides cognitive benefits such as higher density of grey matter, increased activity in certain brain regions, and a more engaged and complex brain. These advantages can help delay the onset of diseases like Alzheimer's and dementia by as much as five years.
+
+[[Mini Teasures]]

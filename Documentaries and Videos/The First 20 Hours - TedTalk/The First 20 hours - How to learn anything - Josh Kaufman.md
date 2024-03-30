@@ -16,3 +16,6 @@ In his TEDx talk titled "The First 20 Hours How to Learn Anything," Josh Kaufman
 - ⏳ **Time Commitment** Kaufman assures that dedicating about 45 minutes a day for a month (even with some missed days) can yield significant progress in acquiring a new skill.
 - 🎓 **Broad Applicability** Kaufman emphasizes that his method can be applied to any skill or interest, from learning a language to playing a musical instrument.
 - 🌟 **Positive Outlook** Kaufman's approach promotes a positive and achievable perspective on learning, emphasizing the joy of personal growth and skill development.
+
+[[How to Learn Faster - TedTalk]]
+[[The First 20 Hours by Josh Kaufman - Summary]]

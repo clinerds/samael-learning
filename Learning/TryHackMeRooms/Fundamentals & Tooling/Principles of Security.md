@@ -1,4 +1,4 @@
-#CTF #TryHackMe 
+#Fundamentals #TryHackMe 
 
 ## Task 1  Introduction
 
@@ -146,3 +146,4 @@ Let's compare some advantages and disadvantages of this model in the table below
 
 The Biba model is used in organisations or situations where integrity is more important than confidentiality. For example, in software development, developers may only have access to the code that is necessary for their job. They may not need access to critical pieces of information such as databases, etc.
 
+[[Intro To Offensive Security]]

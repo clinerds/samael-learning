@@ -18,3 +18,5 @@ Here's a deeper explanation:
 5. **Flexibility and Change**: While habitus is deeply ingrained, it's not entirely rigid. Over time, your habitus can adapt and change, especially if you experience new social influences or life events that challenge your existing habits and preferences.
 
 In summary, habitus is the set of ingrained habits, tastes, and preferences that guide your behavior and choices in the social world. It's shaped by your life experiences and social background and plays a significant role in how you navigate and make decisions in society. Understanding habitus helps us explore why people from different backgrounds may have different worldviews and lifestyles.
+
+[[Thought Crime]]

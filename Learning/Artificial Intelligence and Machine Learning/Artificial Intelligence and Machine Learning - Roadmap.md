@@ -106,7 +106,7 @@ Certainly! Here are some updated learning resources for each of the topics you w
 - Interactive Exercises: HackerRank's Machine Learning Domain
 - Book: "Machine Learning Yearning" by Andrew Ng (for deepening your understanding)
 
-
+[[LangChain Learning]]
 # Live Resources
 https://www.kaggle.com/learn/intro-to-machine-learning
 https://developers.google.com/machine-learning/crash-course

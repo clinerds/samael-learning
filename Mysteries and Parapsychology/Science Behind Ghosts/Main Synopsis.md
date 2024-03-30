@@ -15,3 +15,4 @@
 - 🔍 [[Blindfold Tests]] reveal that Ouija board movements are controlled by participants, not spirits
 - 💀 Claims of possession and automatic writing can also be attributed to the [[Ideomotor-Effect]]
 
+[[Mini Teasures]]

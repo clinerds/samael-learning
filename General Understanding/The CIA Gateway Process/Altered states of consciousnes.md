@@ -13,6 +13,7 @@ Here are some common types of altered states of consciousness:
 
 5. Psychedelic States: These states are induced by certain substances, such as LSD or psilocybin mushrooms. They can lead to profound alterations in perception, thought patterns, and spiritual experiences.
 
-Inducing altered states of consciousness can vary depending on the method used. For example, practices like meditation or Hemi-Sync utilize relaxation techniques and specific audio frequencies to calm the mind and alter brainwave patterns. Other methods, like psychedelics, work by affecting the brain's neurochemistry.
+Inducing altered states of consciousness can vary depending on the method used. For example, practices like meditation or [[Hemisync]] utilize relaxation techniques and specific audio frequencies to calm the mind and alter brainwave patterns. Other methods, like psychedelics, work by affecting the brain's neurochemistry.
 
 It's important to note that altered states of consciousness can be subjective experiences, and their effects can vary greatly from person to person. Different individuals may have different responses and interpretations of these states.
+

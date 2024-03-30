@@ -102,3 +102,4 @@ In both cases, interpretations vary widely, with some considering them as eviden
 
 
 [[Ideomotor-Effect]]
+[[Mini Teasures]]

@@ -28,3 +28,5 @@ Please note that the authenticity of Paul Amadeus Dienach's story remains uncert
 The existence of Paul Amadeus Dinock is doubtful. The story surrounding him, as described in the provided text, raises suspicions about his authenticity. There are no records to confirm his identity, and some evidence suggests that the story might have been a literary creation rather than a real account.
 
 [[Time is Not Linear]]
+[[Liminal Spaces]]
+[[The Many-Worlds Hypothesis - A Multiverse Perspective]]
