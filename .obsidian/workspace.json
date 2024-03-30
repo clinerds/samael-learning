@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "e006a6693afa195b",
+        "id": "12dbc6d3d62a038e",
         "type": "tabs",
         "children": [
           {
-            "id": "c315d05b01f0ea97",
+            "id": "ee0fba380f74cc2f",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6878ded8de9c6f97",
@@ -120,12 +121,21 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "2ddfa9e989b623a5",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 736.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -139,23 +149,31 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "copilot:Copilot Chat": false
     }
   },
-  "active": "c315d05b01f0ea97",
+  "active": "ee0fba380f74cc2f",
   "lastOpenFiles": [
+    "Reports/The Many-Worlds Hypothesis - A Multiverse Perspective.md",
+    "Philosophy/The Noble Lie By Plato.md",
+    "Learning/TryHackMeRooms/Fundamentals & Tooling/Principles of Security.md",
+    "General Understanding/How Musical Instrument Affect Brain.md",
     "Random Thoughts.md",
+    "Documentaries and Videos/Your Brain on Porn/Part 1 - The Coolidge Effect.md",
+    "General Understanding/Serial Killers/The Zodiac Killer.md",
+    "General Understanding/Kardashev Scale/The Kardashev Scale of Civilization.md",
+    "General Understanding/Mini Teasures.md",
+    "Books/The Brain by David Eagleman/The Brain by David Eagleman - Summary.md",
+    "Reports/The Cult of Done Manifesto.md",
     "Time - Reality - Dimensions - Future/Random Thoughts.md",
     "Books to Read.md",
     "Time - Reality - Dimensions - Future/THE HUMAN FUTURE - A Case for Optimism By Melodysheep.md",
     "Time - Reality - Dimensions - Future/Time Slips/Time is Not Linear.md",
     "Time - Reality - Dimensions - Future/Time Slips/The Case of Paul Amadeus Dienach - Spend a Year in 3906 AD.md",
     "Time - Reality - Dimensions - Future/Liminal Spaces -The Reality In-between/Liminal Spaces.md",
-    "Reports/The Many-Worlds Hypothesis - A Multiverse Perspective.md",
     "Reports/The Economy of Attention - Understanding Its Significance in the Digital Age.md",
-    "Reports/The Cult of Done Manifesto.md",
     "Project SAAS/IDEAS.md",
-    "Philosophy/The Noble Lie By Plato.md",
     "Philosophy/How to Become an Übermensch — Nietzsche's Three Metamorphoses.md",
     "Philosophy/Cynicism.md",
     "Other Concepts/Habitus -  Pierre Bourdieu.md",
@@ -164,13 +182,6 @@
     "Mysteries and Parapsychology/Science Behind Ghosts/Main Synopsis.md",
     "Mysteries and Parapsychology/Science Behind Ghosts/Ideomotor-Effect.md",
     "Mysteries and Parapsychology/Science Behind Ghosts/Ghost Hunting - The Science of the Other Side.md",
-    "Mysteries and Parapsychology/Science Behind Ghosts/Blindfold Tests.md",
-    "Learning/To-Learn.md",
-    "Learning/TryHackMeRooms/Medium/Oh My WebServer.md",
-    "Learning/TryHackMeRooms/Fundamentals & Tooling/Nmap Live Host Discovery.md",
-    "Learning/TryHackMeRooms/Fundamentals & Tooling/Pentesting Fundamentals.md",
-    "Learning/TryHackMeRooms/Fundamentals & Tooling/Principles of Security.md",
-    "Learning/TryHackMeRooms/Fundamentals & Tooling/Introductory Networking.md",
     "General Understanding/Mini Teasures.canvas",
     "Books/Livewired by David Eagleman/Brain Cortex.png",
     "Pasted image 20240328204639.png",

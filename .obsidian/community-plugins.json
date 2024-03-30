@@ -8,5 +8,6 @@
   "obsidian-banners",
   "homepage",
   "obsidian-linter",
-  "obsidian-languagetool-plugin"
+  "obsidian-languagetool-plugin",
+  "copilot"
 ]
