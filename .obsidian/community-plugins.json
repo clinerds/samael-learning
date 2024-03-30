@@ -9,5 +9,8 @@
   "homepage",
   "obsidian-linter",
   "obsidian-languagetool-plugin",
-  "copilot"
+  "copilot",
+  "calendar",
+  "obsidian-book-search-plugin",
+  "dataview"
 ]

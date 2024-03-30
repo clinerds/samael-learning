@@ -14,3 +14,11 @@ How DO I GET MONEY??? Will charge Platform commision 20%
 
 A match making platform for people want a platform that can find him a nerd??
 
+
+# Tweet and Social Post Creator
+
+An application in which user will describe what they want like, what's their account is about, what are their goals, how they want their audience to perceive them and the AI create a plan and post for them to post it on multiple platforms.
+
+Act as a Content marketing specialist and generate a content marketing plan for maximum engagement on my instagram page which is about Astrophysics
+
+My Goal: Get as much engagement as possible.

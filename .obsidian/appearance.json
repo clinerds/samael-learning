@@ -1,9 +1,11 @@
 {
   "accentColor": "",
-  "cssTheme": "Obsidianite",
-  "baseFontSize": 18,
+  "cssTheme": "AnuPpuccin",
+  "baseFontSize": 16,
   "enabledCssSnippets": [
     "translucent"
   ],
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "textFontFamily": "",
+  "interfaceFontFamily": ""
 }

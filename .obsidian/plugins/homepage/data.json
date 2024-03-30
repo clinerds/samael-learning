@@ -2,7 +2,7 @@
   "version": 3,
   "homepages": {
     "Main Homepage": {
-      "value": "Home",
+      "value": "Templates/Book Dashboard",
       "kind": "Graph view",
       "openOnStartup": true,
       "openMode": "Replace all open notes",

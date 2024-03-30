@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bd1e2c6d9bcb799b",
+        "id": "4bd74ac3f1114b14",
         "type": "tabs",
         "children": [
           {
-            "id": "0d42472018a3854f",
+            "id": "a5210010b0551630",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "copilot-conversations/Chat-2024_03_30-14_09_20.md",
+                "file": "Books/Why We Sleep - Matthew Walker.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Dasboard",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "copilot-conversations/Chat-2024_03_30-14_09_20.md",
+                "file": "Books/Why We Sleep - Matthew Walker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "copilot-conversations/Chat-2024_03_30-14_09_20.md",
+                "file": "Books/Why We Sleep - Matthew Walker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,36 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "copilot-conversations/Chat-2024_03_30-14_09_20.md"
+                "file": "Books/Why We Sleep - Matthew Walker.md"
               }
             }
           },
           {
-            "id": "f59dfaa803f21000",
+            "id": "5c553719dba0c8ae",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "43ee99015121823f",
             "type": "leaf",
             "state": {
               "type": "copilot-chat-view",
               "state": {}
+            }
+          },
+          {
+            "id": "bb1d873cee3717c4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
             }
           }
         ],
@@ -142,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 719.5,
+    "width": 331.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -157,40 +177,44 @@
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
       "templater-obsidian:Templater": false,
-      "copilot:Copilot Chat": false
+      "copilot:Copilot Chat": false,
+      "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "0d42472018a3854f",
+  "active": "a5210010b0551630",
   "lastOpenFiles": [
-    "Documentaries and Videos/Beer Biceps/Brain Hacks For Money & Growth With Neurologist Dr. Sid Warrier - The Ranveer Show 147.md",
-    "copilot-conversations/Chat-2024_03_30-14_09_20.md",
-    "copilot-conversations",
-    "Time - Reality - Dimensions - Future/Liminal Spaces -The Reality In-between/Liminal Spaces.md",
-    "Reports/The Economy of Attention - Understanding Its Significance in the Digital Age.md",
-    "Pasted image 20231128221158.png",
-    "Random Thoughts.md",
-    "Ancient Civilization and History/The Annunaki Series - Unscholar/Enki and Enlil - Two prominent Annunaki gods, associated with wisdom and kingship respectively - The Annunaki Series Part 3.md",
-    "Reports/The Many-Worlds Hypothesis - A Multiverse Perspective.md",
-    "Philosophy/The Noble Lie By Plato.md",
-    "Learning/TryHackMeRooms/Fundamentals & Tooling/Principles of Security.md",
-    "General Understanding/How Musical Instrument Affect Brain.md",
-    "Documentaries and Videos/Your Brain on Porn/Part 1 - The Coolidge Effect.md",
-    "General Understanding/Serial Killers/The Zodiac Killer.md",
-    "General Understanding/Kardashev Scale/The Kardashev Scale of Civilization.md",
-    "General Understanding/Mini Teasures.md",
+    "Templates/Book Dashboard.md",
+    "Books/Why We Sleep - Matthew Walker.md",
+    "Books/Why We Sleep.md",
+    "Books/Astrophysics for People in a Hurry - Neil deGrasse Tyson.md",
+    "Books/1984 - George Orwell.md",
+    "Books/The Brain - David Eagleman.md",
+    "Books/Behave - Robert M Sapolsky.md",
+    "Templates/Book Template.md",
+    "Books/The Brain by David Eagleman/Pasted image 20230710192736.png",
     "Books/The Brain by David Eagleman/The Brain by David Eagleman - Summary.md",
-    "Reports/The Cult of Done Manifesto.md",
-    "Time - Reality - Dimensions - Future/Random Thoughts.md",
-    "Books to Read.md",
+    "Books/The Brain by David Eagleman/Untitled.canvas",
+    "Books/The Brain by David Eagleman/Who Am I.md",
+    "Books/1984 By George Orwell/Thought Crime.md",
+    "Books/1984 By George Orwell/The Noble Lie - Plato.md",
+    "Books/1984 By George Orwell/Habitus - Pierre Bourdieu.md",
+    "Books/Lifespan - David A Sinclair Matthew D LaPlante.md",
+    "Books/Livewired by David Eagleman/Livewired by David Eagleman - Summary.md",
+    "BookDasboardDataView.md",
+    "Untitled.md",
+    "{{coverUrl}}.md",
     "Time - Reality - Dimensions - Future/THE HUMAN FUTURE - A Case for Optimism By Melodysheep.md",
-    "Time - Reality - Dimensions - Future/Time Slips/Time is Not Linear.md",
-    "Time - Reality - Dimensions - Future/Time Slips/The Case of Paul Amadeus Dienach - Spend a Year in 3906 AD.md",
-    "Project SAAS/IDEAS.md",
-    "Philosophy/How to Become an Übermensch — Nietzsche's Three Metamorphoses.md",
-    "Philosophy/Cynicism.md",
-    "Other Concepts/Habitus -  Pierre Bourdieu.md",
+    "Books/Livewired - David Eagleman.md",
+    "Templates",
+    "Books/The Courage To Be Disliked - Ichiro Kishimi Fumitake Koga.md",
+    "Books/The Courage to be Happy - By Ichiro Kishimi Fumitake Koga.md",
+    "Conspiracy Theories/Project Stargate.md",
+    "Documentaries and Videos/Your Brain on Porn/Part 2 - The Reward Circuit.md",
+    "Documentaries and Videos/Consciousness and Perception - Unscholar/Consciousness and Perception.md",
+    "General Understanding/The Devil's Violinist - Niccolo` Paganini.md",
+    "copilot-conversations",
+    "Pasted image 20231128221158.png",
     "Mysteries and Parapsychology/Science Behind Ghosts/Science Behind Ghosts.canvas",
-    "Mysteries and Parapsychology/Science Behind Ghosts/Mass Psychogenic Illness.md",
     "General Understanding/Mini Teasures.canvas",
     "Books/Livewired by David Eagleman/Brain Cortex.png",
     "Pasted image 20240328204639.png",
@@ -208,9 +232,6 @@
     "AI Models/Basic_AI_Model_CLAUDE.ipynb",
     "AI Models/basic_ai_model.py",
     "AI Models/Basic_AI_Model.ipynb",
-    "AI Models/basic_ai_model_claude.py",
-    "Books/Sapiens by Yuval Noah Harari/sapiens3-neanderthals-child.jpg",
-    "Books/The Brain by David Eagleman/Untitled.canvas",
     "Documentaries and Videos/Your Brain on Porn/Your Brain on Porn.canvas",
     "Philosophy/Philosphy.canvas",
     "Human Brain and Body/Books/The Brain by David Eagleman/Untitled.canvas",

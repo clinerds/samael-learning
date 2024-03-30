@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"65bd9c96012a0a9e","x":-246,"y":-139,"width":400,"height":400,"type":"file","file":"Human Brain and Body/Books/The Brain by David Eagleman/Who Am I.md"},
-		{"id":"1e3e39740372f602","x":380,"y":-240,"width":400,"height":400,"type":"file","file":"Human Brain and Body/Books/The Brain by David Eagleman/Chapter 2 - What is Reality.md"}
-	],
-	"edges":[
-		{"id":"2735a303e226c051","fromNode":"65bd9c96012a0a9e","fromSide":"right","toNode":"1e3e39740372f602","toSide":"left"}
-	]
-}
