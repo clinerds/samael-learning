@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a3fb5c989a7543fa",
+        "id": "065107fef688c48e",
         "type": "tabs",
         "children": [
           {
-            "id": "058b70f879bf4360",
+            "id": "e1ad8736d0a2c32e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Astronomy - Exploring Space And Time/Copernican Revolution and Occam's Razor.md",
+                "file": "Courses/Astronomy - Exploring Space And Time/Lecture 5 - Uncertainty and Measurements.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Astronomy - Exploring Space And Time/Copernican Revolution and Occam's Razor.md",
+                "file": "Courses/Astronomy - Exploring Space And Time/Lecture 5 - Uncertainty and Measurements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Astronomy - Exploring Space And Time/Copernican Revolution and Occam's Razor.md",
+                "file": "Courses/Astronomy - Exploring Space And Time/Lecture 5 - Uncertainty and Measurements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Astronomy - Exploring Space And Time/Copernican Revolution and Occam's Razor.md"
+                "file": "Courses/Astronomy - Exploring Space And Time/Lecture 5 - Uncertainty and Measurements.md"
               }
             }
           },
@@ -173,20 +173,25 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "d35356f256940bb2",
+  "active": "e1ad8736d0a2c32e",
   "lastOpenFiles": [
-    "Courses/Astronomy - Exploring Space And Time/The Scientific Method.md",
+    "Courses/Astronomy - Exploring Space And Time/Lecture 3 - Imagination.md",
+    "Courses/Astronomy - Exploring Space And Time/Lecture 2 - Discovery.md",
+    "Courses/Astronomy - Exploring Space And Time/Lecture 5 - Uncertainty and Measurements.md",
+    "Courses/Astronomy - Exploring Space And Time/Lecture 4 - Reasoning.md",
     "Courses/Astronomy - Exploring Space And Time/Resources.md",
-    "Courses/Astronomy - Exploring Space And Time/Copernican Revolution and Occam's Razor.md",
+    "Courses/Astronomy - Exploring Space And Time/Lecture 1 - Vision.md",
+    "Courses/Astronomy - Exploring Space And Time/Article 2 - The Night Sky.md",
+    "Courses/Astronomy - Exploring Space And Time/Article 1 - The Scientific Method.md",
+    "Courses/Untitled.md",
+    "Courses/Astronomy - Exploring Space And Time/Article 3 - Ptolemy and the Geocentric Model.md",
+    "Courses/Astronomy - Exploring Space And Time/Article 4 - Copernican Revolution and Occam's Razor.md",
     "copilot-conversations/Chat-2024_04_21-13_03_30.md",
     "copilot-conversations/Chat-2024_03_30-14_09_20.md",
-    "Courses/Astronomy - Exploring Space And Time/The Night Sky.md",
-    "Courses/Astronomy - Exploring Space And Time/Ptolemy and the Geocentric Model.md",
     "Templates/Course Template.md",
     "Templates/Book Template.md",
     "Templates/Book Dashboard.md",
     "Courses/Astronomy - Exploring Space And Time",
-    "Courses/Untitled.md",
     "Courses",
     "Untitled.md",
     "Mysteries and Parapsychology/Science Behind Ghosts/Blindfold Tests.md",
@@ -198,13 +203,8 @@
     "Dashboard.md",
     "Books/Why We Sleep - Matthew Walker.md",
     "Books/Why We Sleep.md",
-    "Books/Behave - Robert M Sapolsky.md",
     "Books/The Brain by David Eagleman/Pasted image 20230710192736.png",
-    "Books/The Brain by David Eagleman/The Brain by David Eagleman - Summary.md",
     "Books/The Brain by David Eagleman/Untitled.canvas",
-    "Books/The Brain by David Eagleman/Who Am I.md",
-    "Books/1984 By George Orwell/Thought Crime.md",
-    "Books/1984 By George Orwell/The Noble Lie - Plato.md",
     "Templates",
     "copilot-conversations",
     "Pasted image 20231128221158.png",
