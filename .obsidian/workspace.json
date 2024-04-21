@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4bd74ac3f1114b14",
+        "id": "a3fb5c989a7543fa",
         "type": "tabs",
         "children": [
           {
-            "id": "a5210010b0551630",
+            "id": "058b70f879bf4360",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Why We Sleep - Matthew Walker.md",
+                "file": "Courses/Astronomy - Exploring Space And Time/Copernican Revolution and Occam's Razor.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Why We Sleep - Matthew Walker.md",
+                "file": "Courses/Astronomy - Exploring Space And Time/Copernican Revolution and Occam's Razor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Why We Sleep - Matthew Walker.md",
+                "file": "Courses/Astronomy - Exploring Space And Time/Copernican Revolution and Occam's Razor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,24 +125,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Why We Sleep - Matthew Walker.md"
+                "file": "Courses/Astronomy - Exploring Space And Time/Copernican Revolution and Occam's Razor.md"
               }
-            }
-          },
-          {
-            "id": "5c553719dba0c8ae",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "43ee99015121823f",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {}
             }
           },
           {
@@ -156,9 +140,17 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "d35356f256940bb2",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -181,37 +173,39 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "a5210010b0551630",
+  "active": "d35356f256940bb2",
   "lastOpenFiles": [
+    "Courses/Astronomy - Exploring Space And Time/The Scientific Method.md",
+    "Courses/Astronomy - Exploring Space And Time/Resources.md",
+    "Courses/Astronomy - Exploring Space And Time/Copernican Revolution and Occam's Razor.md",
+    "copilot-conversations/Chat-2024_04_21-13_03_30.md",
+    "copilot-conversations/Chat-2024_03_30-14_09_20.md",
+    "Courses/Astronomy - Exploring Space And Time/The Night Sky.md",
+    "Courses/Astronomy - Exploring Space And Time/Ptolemy and the Geocentric Model.md",
+    "Templates/Course Template.md",
+    "Templates/Book Template.md",
     "Templates/Book Dashboard.md",
+    "Courses/Astronomy - Exploring Space And Time",
+    "Courses/Untitled.md",
+    "Courses",
+    "Untitled.md",
+    "Mysteries and Parapsychology/Science Behind Ghosts/Blindfold Tests.md",
+    "Books/1984 - George Orwell.md",
+    "Books/Astrophysics for People in a Hurry - Neil deGrasse Tyson.md",
+    "Books/The Brain - David Eagleman.md",
+    "Books/The Subtle Art of Not Giving a Fuck - Mark Manson.md",
+    "Random Thoughts.md",
+    "Dashboard.md",
     "Books/Why We Sleep - Matthew Walker.md",
     "Books/Why We Sleep.md",
-    "Books/Astrophysics for People in a Hurry - Neil deGrasse Tyson.md",
-    "Books/1984 - George Orwell.md",
-    "Books/The Brain - David Eagleman.md",
     "Books/Behave - Robert M Sapolsky.md",
-    "Templates/Book Template.md",
     "Books/The Brain by David Eagleman/Pasted image 20230710192736.png",
     "Books/The Brain by David Eagleman/The Brain by David Eagleman - Summary.md",
     "Books/The Brain by David Eagleman/Untitled.canvas",
     "Books/The Brain by David Eagleman/Who Am I.md",
     "Books/1984 By George Orwell/Thought Crime.md",
     "Books/1984 By George Orwell/The Noble Lie - Plato.md",
-    "Books/1984 By George Orwell/Habitus - Pierre Bourdieu.md",
-    "Books/Lifespan - David A Sinclair Matthew D LaPlante.md",
-    "Books/Livewired by David Eagleman/Livewired by David Eagleman - Summary.md",
-    "BookDasboardDataView.md",
-    "Untitled.md",
-    "{{coverUrl}}.md",
-    "Time - Reality - Dimensions - Future/THE HUMAN FUTURE - A Case for Optimism By Melodysheep.md",
-    "Books/Livewired - David Eagleman.md",
     "Templates",
-    "Books/The Courage To Be Disliked - Ichiro Kishimi Fumitake Koga.md",
-    "Books/The Courage to be Happy - By Ichiro Kishimi Fumitake Koga.md",
-    "Conspiracy Theories/Project Stargate.md",
-    "Documentaries and Videos/Your Brain on Porn/Part 2 - The Reward Circuit.md",
-    "Documentaries and Videos/Consciousness and Perception - Unscholar/Consciousness and Perception.md",
-    "General Understanding/The Devil's Violinist - Niccolo` Paganini.md",
     "copilot-conversations",
     "Pasted image 20231128221158.png",
     "Mysteries and Parapsychology/Science Behind Ghosts/Science Behind Ghosts.canvas",
@@ -230,8 +224,6 @@
     "Learning/TryHackMeRooms",
     "Pasted image 20231128221219.png",
     "AI Models/Basic_AI_Model_CLAUDE.ipynb",
-    "AI Models/basic_ai_model.py",
-    "AI Models/Basic_AI_Model.ipynb",
     "Documentaries and Videos/Your Brain on Porn/Your Brain on Porn.canvas",
     "Philosophy/Philosphy.canvas",
     "Human Brain and Body/Books/The Brain by David Eagleman/Untitled.canvas",
