@@ -1,3 +1,4 @@
+#Course #Astronomy #Coursera #UniversityOfArizona 
 ### Notes:
 
 #### Understanding Uncertainty and Error in Science:

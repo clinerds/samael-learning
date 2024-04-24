@@ -1,4 +1,4 @@
-
+#Course #Astronomy #Coursera #UniversityOfArizona 
 >"If you don't have data or observation to support your theory/what you think, then it's an assumption not a deduction. ~ Samael"
 
 **Notes:**
