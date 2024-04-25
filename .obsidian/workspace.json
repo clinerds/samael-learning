@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Astronomy - Exploring Space And Time/Lecture 4 - Reasoning.md",
+                "file": "Cerebrum.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Astronomy - Exploring Space And Time/Lecture 4 - Reasoning.md",
+                "file": "Cerebrum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Astronomy - Exploring Space And Time/Lecture 4 - Reasoning.md",
+                "file": "Cerebrum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Astronomy - Exploring Space And Time/Lecture 4 - Reasoning.md"
+                "file": "Cerebrum.md"
               }
             }
           },
@@ -175,11 +175,14 @@
   },
   "active": "e1ad8736d0a2c32e",
   "lastOpenFiles": [
+    "Human Brain.md",
+    "Random Thoughts.md",
+    "Untitled.md",
+    "Time - Reality - Dimensions - Future/THE HUMAN FUTURE - A Case for Optimism By Melodysheep.md",
     "Courses/Astronomy - Exploring Space And Time/Lecture 5 - Uncertainty and Measurements.md",
     "Courses/Astronomy - Exploring Space And Time/Lecture 6 - Causation and Correlation.md",
     "Courses/Astronomy - Exploring Space And Time/Lecture 3 - Imagination.md",
     "Courses/Astronomy - Exploring Space And Time/Lecture 4 - Reasoning.md",
-    "Untitled.md",
     "Courses/Astronomy - Exploring Space And Time/Lecture 2 - Discovery.md",
     "Courses/Astronomy - Exploring Space And Time/Resources.md",
     "Courses/Astronomy - Exploring Space And Time/Lecture 1 - Vision.md",
@@ -200,9 +203,6 @@
     "Books/Astrophysics for People in a Hurry - Neil deGrasse Tyson.md",
     "Books/The Brain - David Eagleman.md",
     "Books/The Subtle Art of Not Giving a Fuck - Mark Manson.md",
-    "Random Thoughts.md",
-    "Dashboard.md",
-    "Books/Why We Sleep - Matthew Walker.md",
     "Books/The Brain by David Eagleman/Pasted image 20230710192736.png",
     "Books/The Brain by David Eagleman/Untitled.canvas",
     "Templates",
