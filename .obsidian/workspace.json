@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project SAAS/PROJECT - UNKNOWN.md",
+                "file": "Project SAAS/PROJECT - GRACE.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Dasboard",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project SAAS/PROJECT - UNKNOWN.md",
+                "file": "Project SAAS/PROJECT - GRACE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project SAAS/PROJECT - UNKNOWN.md",
+                "file": "Project SAAS/PROJECT - GRACE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project SAAS/PROJECT - UNKNOWN.md"
+                "file": "Project SAAS/PROJECT - GRACE.md"
               }
             }
           },
@@ -176,7 +176,9 @@
   "active": "e1ad8736d0a2c32e",
   "lastOpenFiles": [
     "Project SAAS/IDEAS.md",
-    "Project SAAS/PROJECT - UNKNOWN.md",
+    "Project SAAS/PROJECT - GRACE.md",
+    "Courses/Astronomy - Exploring Space And Time/Article 1 - The Scientific Method.md",
+    "General Understanding/Life After Death/Orchestrated objective reduction (Orch-OR) Quantum Theory of Consciousness.md",
     "Documentaries and Videos/How to Learn Faster - TedTalk/How to Learn Faster - TedTalk.md",
     "Courses/Astronomy - Exploring Space And Time/Lecture 4 - Reasoning.md",
     "Human Brain.md",
@@ -190,7 +192,6 @@
     "Courses/Astronomy - Exploring Space And Time/Resources.md",
     "Courses/Astronomy - Exploring Space And Time/Lecture 1 - Vision.md",
     "Courses/Astronomy - Exploring Space And Time/Article 2 - The Night Sky.md",
-    "Courses/Astronomy - Exploring Space And Time/Article 1 - The Scientific Method.md",
     "Courses/Untitled.md",
     "Courses/Astronomy - Exploring Space And Time/Article 3 - Ptolemy and the Geocentric Model.md",
     "Courses/Astronomy - Exploring Space And Time/Article 4 - Copernican Revolution and Occam's Razor.md",
@@ -202,7 +203,6 @@
     "Courses/Astronomy - Exploring Space And Time",
     "Courses",
     "Mysteries and Parapsychology/Science Behind Ghosts/Blindfold Tests.md",
-    "Books/1984 - George Orwell.md",
     "Books/The Brain by David Eagleman/Pasted image 20230710192736.png",
     "Books/The Brain by David Eagleman/Untitled.canvas",
     "Templates",
