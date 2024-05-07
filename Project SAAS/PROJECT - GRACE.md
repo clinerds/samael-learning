@@ -60,6 +60,8 @@
 - Link: https://www.youtube.com/embed/kmkcNVvEz-k 
 - Title:  How to Fine-Tune Mistral 7B on Your Own Data
 
+- https://www.freecodecamp.org/news/get-started-with-hugging-face/
+
 
 # Things To Do
 
