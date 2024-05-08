@@ -1,7 +1,28 @@
 #Project #Saas #CustomDevelopment #AI 
 
+
+# Change Of Plans
+
+Instead of using a no code tool I think i should do the custom development, because no code tools are 
+
+- expensive
+- I don't have the development control
+- have to pay them on yearly or monthly basis (another expense)
+
+but if I do the custom development I Will get the full control over my product, i can also look fro ways to host it for free. plus, there is only one expense which is hosting and domain.
+
+# To Do
+
+- Use react and necessary framework to build UI
+- use open routers API to get mistral 7b and develop a prototype or train your own model on custom data and host it to huggingface as an API and use that API
+- find a way to save memory
+- Launch
+
+P.S: for further modification I can train my models on custom data (somehow without GPU) and host it to huggingface to get the API, and then integrate it with my app.
+
 ## Resources Along The Way
 
+### MAY 7th 2024
 
 - **Link: https://www.youtube.com/embed/qrZGfBBlXpk 
 - Title:  Django ChatGPT Clone Tutorial"
@@ -62,6 +83,18 @@
 
 - https://www.freecodecamp.org/news/get-started-with-hugging-face/
 
+### MAY 8th 2024
+
+- Title: How to Deploy React Js Website On Firebase ✅ | Free Firebase Hosting
+- Link: https://youtu.be/RIu9egL4uoY
+
+- Title: How To Integrate Google Login in React! Easy | Add Auth To Your React Project
+- Link: https://youtu.be/UUJfTsn6S_Y
+
+- Title: Fine-Tune Large LLMs with QLoRA (Free Colab Tutorial)
+- https://youtu.be/NRVaRXDoI3g
+
+
 
 # Things To Do
 
@@ -77,22 +110,3 @@
 And Yeah Find a Suitable Name For Your Project..........
 
 
-# Change Of Plans
-
-Instead of using a no code tool I think i should do the custom development, because no code tools are 
-
-- expensive
-- I don't have the development control
-- have to pay them on yearly or monthly basis (another expense)
-
-but if I do the custom development I Will get the full control over my product, i can also look fro ways to host it for free. plus, there is only one expense which is hosting and domain.
-
-
-# To Do
-
-- Use react and necessary framework to build UI
-- use open routers API to get mistral 7b and develop a prototype
-- find a way to save memory
-- Launch
-
-P.S: for further modification I can train my models on custom data (somehow without GPU) and host it to huggingface to get the API, and then integrate it with my app.
