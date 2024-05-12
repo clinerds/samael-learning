@@ -3,6 +3,8 @@
 
 Here is a summary of [How To Reprogram Your Dopamine To Crave Hard Work](http://www.youtube.com/watch?v=8GUNhGRlQDU) by Rian Doris
 
+# NEw changes
+
 The video argues that rather than detoxing from dopamine, we should instead re-sensitize ourselves to it . Dopamine is a neurochemical that plays a key role in motivation and reward. When we are overstimulated by things like social media, we become less sensitive to dopamine. This means that we need more and more stimulation to feel good.
 
 The video suggests a few ways to re-sensitize ourselves to dopamine:
