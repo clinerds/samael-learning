@@ -6,5 +6,14 @@
       ],
       "key": "M"
     }
+  ],
+  "obsidian-hotkeys-for-templates:templater:Astronomy Course Template.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "A"
+    }
   ]
 }

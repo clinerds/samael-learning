@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiBrain",
       "IbDocumentVideo",
       "TiBooks",
       "SiHackthebox",
-      "TiRobot",
-      "FasQuestion"
+      "TiRobot"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -40,5 +40,6 @@
   "Learning/Artificial Intelligence and Machine Learning": "TiRobot",
   "Learning/Cyber Security and Penetration Testing": "SiHackthebox",
   "Books": "TiBooks",
-  "Documentaries and Videos": "IbDocumentVideo"
+  "Documentaries and Videos": "IbDocumentVideo",
+  "Human Brain": "TiBrain"
 }

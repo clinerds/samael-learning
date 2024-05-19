@@ -95,7 +95,6 @@ P.S: for further modification I can train my models on custom data (somehow with
 - https://youtu.be/NRVaRXDoI3g
 
 
-
 # Things To Do
 
 - [ ] UI - Design The UI With Copy - Frontend

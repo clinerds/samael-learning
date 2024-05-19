@@ -1,0 +1,17 @@
+{
+  "files": [
+    "Astronomy Course Template.md",
+    "Book Template.md",
+    "Book Dashboard.md"
+  ],
+  "templaterFiles": [
+    "Astronomy Course Template.md",
+    "Book Dashboard.md",
+    "Book Template.md"
+  ],
+  "newFileTemplates": [
+    null
+  ],
+  "openNewFileTemplateInNewPane": true,
+  "useNewFileTemplateOnFileCreation": false
+}
