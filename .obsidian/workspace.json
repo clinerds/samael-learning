@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Astronomy - Exploring Space And Time/Week 2/Article 1 - The Scientific Method.md",
+                "file": "Learning/Cyber Security and Penetration Testing/Zero Day Exploit.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Astronomy - Exploring Space And Time/Week 2/Article 1 - The Scientific Method.md",
+                "file": "Learning/Cyber Security and Penetration Testing/Zero Day Exploit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Astronomy - Exploring Space And Time/Week 2/Article 1 - The Scientific Method.md",
+                "file": "Learning/Cyber Security and Penetration Testing/Zero Day Exploit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Astronomy - Exploring Space And Time/Week 2/Article 1 - The Scientific Method.md"
+                "file": "Learning/Cyber Security and Penetration Testing/Zero Day Exploit.md"
               }
             }
           },
@@ -175,6 +175,9 @@
   },
   "active": "e1ad8736d0a2c32e",
   "lastOpenFiles": [
+    "Learning/Cyber Security and Penetration Testing/Cyber Security and Penetration Testing - Roadmap.md",
+    "Learning/Cyber Security and Penetration Testing/Zero Day Exploit.md",
+    "Courses/Astronomy - Exploring Space And Time/Week 2/Article 1 - The Scientific Method.md",
     "Courses/Astronomy - Exploring Space And Time/Week 2/Article 2 - The Night Sky.md",
     "Courses/Astronomy - Exploring Space And Time/Week 2/Article 3 - Ptolemy and the Geocentric Model.md",
     "Courses/Astronomy - Exploring Space And Time/Week 2/Article 4 - Copernican Revolution and Occam's Razor.md",
@@ -188,7 +191,6 @@
     "Courses/Astronomy - Exploring Space And Time/Week 2/Lecture 8 - Scientific Method.md",
     "Courses/Astronomy - Exploring Space And Time/Week 2/Lecture 9 - Information.md",
     "Courses/Astronomy - Exploring Space And Time/Week 2/Lecture 10 - Ancient Astronomy.md",
-    "Courses/Astronomy - Exploring Space And Time/Week 2/Article 1 - The Scientific Method.md",
     "Templates/Astronomy Course Template.md",
     "Templates/Book Template.md",
     "Learning/Artificial Intelligence and Machine Learning/LangChain Learning.md",
@@ -202,8 +204,6 @@
     "Learning/Artificial Intelligence and Machine Learning/Generative AI Fine Tuning LLM Models Crash Course",
     "Pasted image 20231128221158.png",
     "Books to Read.md",
-    "Human Brain/Cerebrum.md",
-    "Project SAAS/PROJECT - GRACE.md",
     "Human Brain",
     "Untitled.canvas",
     "Courses/Astronomy - Exploring Space And Time/New folder",

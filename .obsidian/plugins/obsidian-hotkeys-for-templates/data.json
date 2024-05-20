@@ -9,9 +9,7 @@
     "Book Dashboard.md",
     "Book Template.md"
   ],
-  "newFileTemplates": [
-    null
-  ],
+  "newFileTemplates": [],
   "openNewFileTemplateInNewPane": true,
   "useNewFileTemplateOnFileCreation": false
 }
