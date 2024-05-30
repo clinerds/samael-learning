@@ -4,7 +4,7 @@
 Date: 02-10-2023*
 # **Abstract:** 
 
-This report delves deep into the concept of attention as a valuable resource in the digital age. It explores the evolution of social media, the impact of constant distraction, and the exploitation of attention by corporations. Additionally, the report discusses the rise of rage-bait content and its implications for society. Furthermore, it provides insights into the potential consequences of our society's obsession with attention and suggests ways to regain control over our attention.
+This report delves deep into the concept of attention as a valuable resource in the digital age. It explores the evolution of social media, the impact of constant distraction, and the exploitation of attention by corporations. Additionally, The report discusses the rise of rage-bait content and its implications for society. Furthermore, it provides insights into the potential consequences of our society's obsession with attention and suggests ways to regain control over our attention.
 
 # **1. Introduction: The Attention Economy**
 
