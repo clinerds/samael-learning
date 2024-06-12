@@ -52,3 +52,5 @@
 >"Things are getting out of hands I've lost control... I have to do something I have to get back to my old self the old personality  
   Currently my personality is the mixture of tooo...  
 I have to create a new one according to the situation "
+
+>"All he has is his mind and his will to survive ~ Samael"  

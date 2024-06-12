@@ -11,12 +11,8 @@
             "id": "e1ad8736d0a2c32e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Artificial Intelligence and Machine Learning/Step-by-Step Guide to Building a RAG LLM App with LLamA2 and LLaMAindex.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Artificial Intelligence and Machine Learning/Step-by-Step Guide to Building a RAG LLM App with LLamA2 and LLaMAindex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Artificial Intelligence and Machine Learning/Step-by-Step Guide to Building a RAG LLM App with LLamA2 and LLaMAindex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Learning/Artificial Intelligence and Machine Learning/Step-by-Step Guide to Building a RAG LLM App with LLamA2 and LLaMAindex.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,6 +138,14 @@
             "type": "leaf",
             "state": {
               "type": "copilot-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "43fd2efa1a5bc7f1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {}
             }
           }
@@ -173,46 +173,49 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "e1ad8736d0a2c32e",
+  "active": "4fd0290b710dcda0",
   "lastOpenFiles": [
+    "Courses/Coursera - Astronomy - Exploring Space And Time/Week 2/Lecture 9 - Information.md",
+    "Courses/Coursera - Astronomy - Exploring Space And Time/Week 2/Lecture 8 - Scientific Method.md",
+    "Courses/Coursera - Astronomy - Exploring Space And Time/Week 2/Lecture 7 - Evidence.md",
+    "Courses/Coursera - Astronomy - Exploring Space And Time/Week 2/Lecture 5 - Uncertainty and Measurements.md",
+    "Courses/Coursera - Astronomy - Exploring Space And Time/Week 2/Lecture 6 - Causation and Correlation.md",
+    "Courses/Coursera - Astronomy - Exploring Space And Time/Week 2/Lecture 4 - Reasoning.md",
+    "Courses/Coursera - Astronomy - Exploring Space And Time/Week 2/Lecture 3 - Imagination.md",
+    "Courses/Coursera - Astronomy - Exploring Space And Time/Week 2/Lecture 2 - Discovery.md",
+    "Courses/Coursera - Astronomy - Exploring Space And Time/Week 2/Lecture 10 - Ancient Astronomy.md",
+    "Courses/Coursera - Astronomy - Exploring Space And Time/Week 2/Lecture 1 - Vision.md",
+    "Courses/Coursera - Astronomy - Exploring Space And Time/Week 2/Article 4 - Copernican Revolution and Occam's Razor.md",
+    "Courses/Coursera - Astronomy - Exploring Space And Time/Week 2/Article 3 - Ptolemy and the Geocentric Model.md",
+    "Courses/Coursera - Astronomy - Exploring Space And Time/Week 2/Article 2 - The Night Sky.md",
+    "Courses/Coursera - Astronomy - Exploring Space And Time/Week 2/Article 1 - The Scientific Method.md",
+    "Courses/Coursera - Astronomy - Exploring Space And Time/Week 2",
+    "Courses/Coursera - Astronomy - Exploring Space And Time/Resources.md",
+    "Courses/Coursera - Astronomy - Exploring Space And Time",
+    "Courses/Cyber Security and Penetration Testing/Zero Day Exploit.md",
+    "Courses/Cyber Security and Penetration Testing/Cyber Security and Penetration Testing - Roadmap.md",
+    "Courses/Cyber Security and Penetration Testing",
+    "Courses/Artificial Intelligence and Machine Learning/What is Google Collab.md",
+    "Courses/Artificial Intelligence and Machine Learning/Step-by-Step Guide to Building a RAG LLM App with LLamA2 and LLaMAindex.md",
+    "Courses/Artificial Intelligence and Machine Learning/LangChain Learning.md",
+    "Courses/Artificial Intelligence and Machine Learning/Generative AI Fine Tuning LLM Models Crash Course.md",
+    "Courses/Artificial Intelligence and Machine Learning/Artificial Intelligence and Machine Learning - Roadmap.md",
+    "Courses/Artificial Intelligence and Machine Learning/21st Feb 2024 - Resources & Exploration.md",
+    "Courses/Artificial Intelligence and Machine Learning",
+    "Courses/TryHackMeRooms/Medium/Oh My WebServer.md",
+    "Courses/TryHackMeRooms/Fundamentals & Tooling/Principles of Security.md",
+    "Courses/TryHackMeRooms/Fundamentals & Tooling/Pentesting Fundamentals.md",
+    "Courses/TryHackMeRooms/Medium",
+    "Courses/TryHackMeRooms/Fundamentals & Tooling",
+    "Courses/TryHackMeRooms/Easy",
+    "Courses/TryHackMeRooms",
+    "Courses/Astronomy - Exploring Space And Time - Coursera/Week 2",
+    "Courses/Astronomy - Exploring Space And Time - Coursera",
     "Screenshot (45).png",
-    "Learning/Artificial Intelligence and Machine Learning/Generative AI Fine Tuning LLM Models Crash Course.md",
-    "Learning/Artificial Intelligence and Machine Learning/Step-by-Step Guide to Building a RAG LLM App with LLamA2 and LLaMAindex.md",
-    "Learning/Artificial Intelligence and Machine Learning/LangChain Learning.md",
-    "Learning/Artificial Intelligence and Machine Learning/What is Google Collab.md",
-    "Learning/Artificial Intelligence and Machine Learning/21st Feb 2024 - Resources & Exploration.md",
-    "Learning/Artificial Intelligence and Machine Learning/Artificial Intelligence and Machine Learning - Roadmap.md",
-    "Reports/The Economy of Attention - Understanding Its Significance in the Digital Age.md",
-    "Reports/The Cult of Done Manifesto.md",
-    "Reports/Effective Time Management Strategies.md",
-    "Documentaries and Videos/Dopamine Detox - Ryan Doris.md",
-    "Documentaries and Videos/Consciousness and Perception - Unscholar/Understanding the Basics of Consciousness and Awareness.md",
-    "Documentaries and Videos/Consciousness and Perception - Unscholar/Consciousness and Perception.md",
-    "Documentaries and Videos/How to Learn Faster - TedTalk/How to Learn Faster - TedTalk.md",
-    "Documentaries and Videos/The First 20 Hours - TedTalk/The First 20 hours - How to learn anything - Josh Kaufman.md",
-    "Documentaries and Videos/Your Brain on Porn/Part 1 - The Coolidge Effect.md",
-    "Learning/Cyber Security and Penetration Testing/Cyber Security and Penetration Testing - Roadmap.md",
-    "Learning/Cyber Security and Penetration Testing/Zero Day Exploit.md",
-    "Courses/Astronomy - Exploring Space And Time/Week 2/Article 1 - The Scientific Method.md",
-    "Courses/Astronomy - Exploring Space And Time/Week 2/Article 2 - The Night Sky.md",
-    "Courses/Astronomy - Exploring Space And Time/Week 2/Article 3 - Ptolemy and the Geocentric Model.md",
-    "Courses/Astronomy - Exploring Space And Time/Week 2/Article 4 - Copernican Revolution and Occam's Razor.md",
-    "Courses/Astronomy - Exploring Space And Time/Week 2/Lecture 1 - Vision.md",
-    "Courses/Astronomy - Exploring Space And Time/Week 2/Lecture 2 - Discovery.md",
-    "Courses/Astronomy - Exploring Space And Time/Week 2/Lecture 3 - Imagination.md",
-    "Courses/Astronomy - Exploring Space And Time/Week 2/Lecture 4 - Reasoning.md",
-    "Courses/Astronomy - Exploring Space And Time/Week 2",
-    "Learning/Artificial Intelligence and Machine Learning/Generative AI Fine Tuning LLM Models Crash Course",
     "Pasted image 20231128221158.png",
-    "Human Brain",
     "Untitled.canvas",
-    "Courses/Astronomy - Exploring Space And Time/New folder",
-    "Courses/Astronomy - Exploring Space And Time",
-    "Courses",
     "Books/The Brain by David Eagleman/Pasted image 20230710192736.png",
     "Books/The Brain by David Eagleman/Untitled.canvas",
-    "Templates",
-    "copilot-conversations",
     "Mysteries and Parapsychology/Science Behind Ghosts/Science Behind Ghosts.canvas",
     "General Understanding/Mini Teasures.canvas",
     "Books/Livewired by David Eagleman/Brain Cortex.png",
@@ -222,9 +225,6 @@
     "Pasted image 20240328204145.png",
     "Pasted image 20240328204032.png",
     "Pasted image 20240328203814.png",
-    "Documentaries and Videos/Beer Biceps",
-    "Learning/TryHackMeRooms/Medium",
-    "Pasted image 20231128221219.png",
     "Documentaries and Videos/Your Brain on Porn/Your Brain on Porn.canvas",
     "Philosophy/Philosphy.canvas",
     "Human Brain and Body/Books/The Brain by David Eagleman/Untitled.canvas",
