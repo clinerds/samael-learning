@@ -8,15 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9960fc4d7c13007a",
+            "id": "0e39a94d1b2485a1",
             "type": "leaf",
             "state": {
-              "type": "3d_graph_view",
+              "type": "graph",
               "state": {}
             }
           },
           {
-            "id": "0e39a94d1b2485a1",
+            "id": "b60bb14253ed4f60",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "liminal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,21 +169,31 @@
   "left-ribbon": {
     "hiddenItems": {
       "graph:Open graph view": false,
-      "3d-graph:3D Graph": false,
-      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
+      "3d-graph:3D Graph": false,
       "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
       "copilot:Copilot Chat": false,
-      "obsidian-book-search-plugin:Create new book note": false
+      "obsidian-book-search-plugin:Create new book note": false,
+      "super-duper-audio-recorder:Start/Stop Recording": false
     }
   },
-  "active": "0e39a94d1b2485a1",
+  "active": "b60bb14253ed4f60",
   "lastOpenFiles": [
+    "Tetsing audio notes.md",
+    "Voice-Memos",
+    "recording-multitrack-2024-09-01T14-10-36-060Z.wav",
+    "recording-multitrack-2024-09-01T14-09-44-899Z.wav",
+    "recording-multitrack-2024-09-01T14-08-14-637Z.wav",
+    "General Understanding/The Devil's Violinist - Niccolo` Paganini.md",
+    "Time - Reality - Dimensions - Future/Liminal Spaces -The Reality In-between/Liminal Spaces.md",
+    "Time - Reality - Dimensions - Future/Time Slips/The Case of Paul Amadeus Dienach - Spend a Year in 3906 AD.md",
+    "Time - Reality - Dimensions - Future/THE HUMAN FUTURE - A Case for Optimism By Melodysheep.md",
     "Courses & Learning/BugBounty Course/1 - How To Choose The Target.md",
     "Courses & Learning/BugBounty Course/My Methodology.md",
     "Courses & Learning/BugBounty Course/Personal Bug Hunting Notes.md",
@@ -206,20 +216,10 @@
     "Courses & Learning/Coursera - Astronomy - Exploring Space And Time/Week 2/Lecture 7 - Evidence.md",
     "Courses & Learning/Coursera - Astronomy - Exploring Space And Time/Week 2/Lecture 6 - Causation and Correlation.md",
     "Courses & Learning/Coursera - Astronomy - Exploring Space And Time/Week 2/Lecture 4 - Reasoning.md",
-    "Courses & Learning/Coursera - Astronomy - Exploring Space And Time/Week 2/Lecture 3 - Imagination.md",
-    "Courses & Learning/Coursera - Astronomy - Exploring Space And Time/Week 2/Lecture 2 - Discovery.md",
-    "Courses & Learning/Coursera - Astronomy - Exploring Space And Time/Week 2/Lecture 10 - Ancient Astronomy.md",
-    "Courses & Learning/Coursera - Astronomy - Exploring Space And Time/Week 2/Lecture 1 - Vision.md",
-    "Courses & Learning/Coursera - Astronomy - Exploring Space And Time/Week 2/Article 4 - Copernican Revolution and Occam's Razor.md",
-    "Courses & Learning/Coursera - Astronomy - Exploring Space And Time/Week 2/Article 3 - Ptolemy and the Geocentric Model.md",
     "Courses & Learning/Coursera - Astronomy - Exploring Space And Time/Week 2",
     "Courses & Learning/Coursera - Astronomy - Exploring Space And Time",
     "Courses & Learning/Cyber Security and Penetration Testing",
     "Courses & Learning/Artificial Intelligence and Machine Learning",
-    "Courses & Learning/TryHackMeRooms/Medium",
-    "Courses & Learning/TryHackMeRooms/Fundamentals & Tooling",
-    "Courses & Learning/TryHackMeRooms/Easy",
-    "Courses & Learning/TryHackMeRooms",
     "Screenshot (45).png",
     "Pasted image 20231128221158.png",
     "Untitled.canvas",

@@ -23,5 +23,13 @@
       ],
       "key": "3"
     }
+  ],
+  "obsidian-audio-notes:create-new-audio-note": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "A"
+    }
   ]
 }

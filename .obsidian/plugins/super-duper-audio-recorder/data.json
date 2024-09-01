@@ -1,0 +1,17 @@
+{
+  "recordingFormat": "webm",
+  "saveFolder": "",
+  "filePrefix": "recording",
+  "startStopHotkey": "",
+  "pauseHotkey": "",
+  "resumeHotkey": "",
+  "audioDeviceId": "",
+  "sampleRate": 48000,
+  "bitrate": 128000,
+  "enableMultiTrack": false,
+  "maxTracks": 2,
+  "outputMode": "single",
+  "useSourceNamesForTracks": true,
+  "trackAudioSources": {},
+  "debug": false
+}
