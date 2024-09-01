@@ -19,8 +19,12 @@
             "id": "b60bb14253ed4f60",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Reports/The Cult of Done Manifesto.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Reports/The Cult of Done Manifesto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Reports/The Cult of Done Manifesto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Reports/The Cult of Done Manifesto.md"
+              }
             }
           },
           {
@@ -143,28 +151,27 @@
             }
           },
           {
-            "id": "d35356f256940bb2",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {}
-            }
-          },
-          {
             "id": "43fd2efa1a5bc7f1",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "d35c5bbb37b47723",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 331.5,
-    "collapsed": true
+    "width": 331.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,9 +190,14 @@
       "super-duper-audio-recorder:Start/Stop Recording": false
     }
   },
-  "active": "4fd0290b710dcda0",
+  "active": "b60bb14253ed4f60",
   "lastOpenFiles": [
     "Tetsing audio notes.md",
+    "Voice-Memos/recording-multitrack-2024-09-01T14-57-25-169Z.wav",
+    "Reports/The Cult of Done Manifesto.md",
+    "Reports/Effective Time Management Strategies.md",
+    "Philosophy/Cynicism.md",
+    "recording-multitrack-2024-09-01T14-46-04-323Z.wav",
     "Voice-Memos",
     "recording-multitrack-2024-09-01T14-10-36-060Z.wav",
     "recording-multitrack-2024-09-01T14-09-44-899Z.wav",
@@ -213,13 +225,8 @@
     "Documentaries and Videos/Consciousness and Perception - Unscholar/Consciousness and Perception.md",
     "Documentaries and Videos/How To Change Your Mind",
     "Courses & Learning/Coursera - Astronomy - Exploring Space And Time/Week 2/Lecture 8 - Scientific Method.md",
-    "Courses & Learning/Coursera - Astronomy - Exploring Space And Time/Week 2/Lecture 7 - Evidence.md",
-    "Courses & Learning/Coursera - Astronomy - Exploring Space And Time/Week 2/Lecture 6 - Causation and Correlation.md",
-    "Courses & Learning/Coursera - Astronomy - Exploring Space And Time/Week 2/Lecture 4 - Reasoning.md",
     "Courses & Learning/Coursera - Astronomy - Exploring Space And Time/Week 2",
     "Courses & Learning/Coursera - Astronomy - Exploring Space And Time",
-    "Courses & Learning/Cyber Security and Penetration Testing",
-    "Courses & Learning/Artificial Intelligence and Machine Learning",
     "Screenshot (45).png",
     "Pasted image 20231128221158.png",
     "Untitled.canvas",

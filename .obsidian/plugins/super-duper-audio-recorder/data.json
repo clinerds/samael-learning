@@ -1,6 +1,6 @@
 {
   "recordingFormat": "webm",
-  "saveFolder": "",
+  "saveFolder": "Voice-Memos",
   "filePrefix": "recording",
   "startStopHotkey": "",
   "pauseHotkey": "",
